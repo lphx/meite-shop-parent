@@ -2,17 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a94a223e-a6b9-4fbc-bb1d-a7b917494faf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-zuul/src/main/java/cn/phlos/MyCommandLineRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-zuul/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/cn/phlos/member/AppMember.java" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/cn/phlos/member/AppMember.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/src/main/java/cn/phlos/weixin/AppWeiXin.java" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/src/main/java/cn/phlos/weixin/AppWeiXin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/target/classes/cn/phlos/weixin/AppWeiXin.class" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/target/classes/cn/phlos/weixin/AppWeiXin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meite-shop-service-impl/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-impl/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-zuul/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-zuul/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-zuul/src/main/java/cn/phlos/AppGateWay.java" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-zuul/src/main/java/cn/phlos/AppGateWay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-zuul/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-zuul/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-zuul/target/classes/cn/phlos/AppGateWay$DocumentationConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-zuul/target/classes/cn/phlos/AppGateWay$DocumentationConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-zuul/target/classes/cn/phlos/AppGateWay.class" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-zuul/target/classes/cn/phlos/AppGateWay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/target/classes/cn/phlos/member/AppMember.class" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/target/classes/cn/phlos/member/AppMember.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -38,38 +38,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-eureka/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-eureka/src/main/java/cn.phlos/AppEureka.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="52" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#382#383#0" expanded="true" />
-                <element signature="e#441#442#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="29" column="36" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
@@ -112,7 +80,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/cn/phlos/member/service/impl/MemberServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="256">
@@ -120,6 +88,59 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-zuul/src/main/java/cn/phlos/MyCommandLineRunner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="145">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-zuul/src/main/java/cn/phlos/AppGateWay.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="87" column="53" selection-start-line="87" selection-start-column="53" selection-end-line="87" selection-end-column="80" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1336#1337#0" expanded="true" />
+                <element signature="e#1381#1382#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-zuul/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="27" selection-start-column="27" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/meite-shop-basics/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-zuul/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="335">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
             </state>
           </provider>
         </entry>
@@ -166,8 +187,6 @@
         <option value="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-member/src/main/java/cn/phlos/member/service/MemberService.java" />
         <option value="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-zuul/pom.xml" />
-        <option value="$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-zuul/src/main/java/cn/phlos/AppGateWay.java" />
         <option value="$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-zuul/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-eureka/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/meite-shop-service-impl/pom.xml" />
@@ -175,6 +194,10 @@
         <option value="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/src/main/java/cn/phlos/weixin/AppWeiXin.java" />
         <option value="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/cn/phlos/member/AppMember.java" />
         <option value="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-zuul/src/main/java/cn/phlos/MyCommandLineRunner.java" />
+        <option value="$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-zuul/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-zuul/src/main/java/cn/phlos/AppGateWay.java" />
       </list>
     </option>
   </component>
@@ -235,7 +258,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
+    <option name="x" value="-212" />
+    <option name="y" value="97" />
     <option name="width" value="1935" />
     <option name="height" value="1040" />
   </component>
@@ -253,11 +277,6 @@
             <path>
               <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="meite-shop-parent" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meite-shop-parent" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
@@ -309,6 +328,66 @@
               <item name="meite-shop-parent" type="462c0819:PsiDirectoryNode" />
               <item name="meite-shop-basics" type="462c0819:PsiDirectoryNode" />
               <item name="meite-shop-basics-springcloud-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meite-shop-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="meite-shop-basics" type="462c0819:PsiDirectoryNode" />
+              <item name="meite-shop-basics-springcloud-zuul" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meite-shop-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="meite-shop-basics" type="462c0819:PsiDirectoryNode" />
+              <item name="meite-shop-basics-springcloud-zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meite-shop-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="meite-shop-basics" type="462c0819:PsiDirectoryNode" />
+              <item name="meite-shop-basics-springcloud-zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meite-shop-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="meite-shop-basics" type="462c0819:PsiDirectoryNode" />
+              <item name="meite-shop-basics-springcloud-zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meite-shop-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="meite-shop-basics" type="462c0819:PsiDirectoryNode" />
+              <item name="meite-shop-basics-springcloud-zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meite-shop-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="meite-shop-basics" type="462c0819:PsiDirectoryNode" />
+              <item name="meite-shop-basics-springcloud-zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="phlos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meite-shop-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="meite-shop-basics" type="462c0819:PsiDirectoryNode" />
+              <item name="meite-shop-basics-springcloud-zuul" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
@@ -506,15 +585,6 @@
               <item name="phlos" type="462c0819:PsiDirectoryNode" />
               <item name="weixin" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meite-shop-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-weixin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -529,7 +599,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-zuul/src/main/resources" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -545,8 +615,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\idea\newWork\meite-shop-parent\meite-shop-service-impl\meite-shop-service-member\src\main\resources" />
       <recent name="D:\idea\newWork\meite-shop-parent\meite-shop-basics\meite-shop-basics-springcloud-zuul\src\main\resources" />
+      <recent name="D:\idea\newWork\meite-shop-parent\meite-shop-service-impl\meite-shop-service-member\src\main\resources" />
       <recent name="D:\idea\newWork\meite-shop-parent\meite-shop-service-api\meite-shop-service-api-member\src\main\java" />
       <recent name="D:\idea\newWork\meite-shop-parent\meite-shop-service-impl\meite-shop-service-weixin\src\main\resources" />
     </key>
@@ -567,7 +637,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.AppMember">
+  <component name="RunManager" selected="Spring Boot.AppGateWay">
     <configuration name="AppEureka" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="meite-shop-basics-springcloud-eureka" />
       <extension name="coverage">
@@ -622,10 +692,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.AppMember" />
-        <item itemvalue="Spring Boot.AppWeiXin" />
-        <item itemvalue="Spring Boot.AppEureka" />
         <item itemvalue="Spring Boot.AppGateWay" />
+        <item itemvalue="Spring Boot.AppWeiXin" />
+        <item itemvalue="Spring Boot.AppMember" />
+        <item itemvalue="Spring Boot.AppEureka" />
       </list>
     </recent_temporary>
   </component>
@@ -642,7 +712,7 @@
       <workItem from="1577627058554" duration="4455000" />
       <workItem from="1577704919542" duration="7584000" />
       <workItem from="1577967058865" duration="314000" />
-      <workItem from="1577967404693" duration="2693000" />
+      <workItem from="1577967404693" duration="5582000" />
     </task>
     <task id="LOCAL-00001" summary="微服务项目">
       <created>1577719224343</created>
@@ -651,16 +721,23 @@
       <option name="project" value="LOCAL" />
       <updated>1577719224343</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="新增Apollo">
+      <created>1577977322307</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577977322307</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15046000" />
+    <option name="totallyTimeSpent" value="17935000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25938338" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25938338" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -670,8 +747,8 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49865952" visible="true" weight="0.40084985" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49865952" visible="true" weight="0.40084985" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -700,16 +777,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="微服务项目" />
-    <option name="LAST_COMMIT_MESSAGE" value="微服务项目" />
+    <MESSAGE value="新增Apollo" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增Apollo" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/meite-shop-basics/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/2.0.1.RELEASE/spring-boot-starter-parent-2.0.1.RELEASE.pom">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -814,18 +885,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-zuul/src/main/java/cn/phlos/AppGateWay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="845">
-          <caret line="51" selection-start-line="51" selection-end-line="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#224#225#0" expanded="true" />
-            <element signature="e#285#286#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
@@ -836,20 +895,6 @@
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-9462" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-zuul/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-zuul/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/meite-shop-service-api/pom.xml">
@@ -939,6 +984,56 @@
           <caret line="20" column="35" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-basics/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-zuul/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-zuul/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="5" lean-forward="true" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-zuul/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="27" selection-start-column="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-zuul/src/main/java/cn/phlos/MyCommandLineRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-zuul/src/main/java/cn/phlos/AppGateWay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="87" column="53" selection-start-line="87" selection-start-column="53" selection-end-line="87" selection-end-column="80" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1336#1337#0" expanded="true" />
+            <element signature="e#1381#1382#0" expanded="true" />
           </folding>
         </state>
       </provider>
