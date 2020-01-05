@@ -10,7 +10,7 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
  * @Autor lipenghong
  * @Date 19:29 2019/12/30
  **/
-@SpringBootApplication
+@SpringBootApplication(scanBasePackages = "cn.phlos")
 @EnableEurekaClient
 @EnableSwagger2Doc
 @EnableApolloConfig

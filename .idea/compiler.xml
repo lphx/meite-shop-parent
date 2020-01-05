@@ -9,6 +9,7 @@
         <module name="meite-shop-basics-springcloud-zuul" />
         <module name="meite-shop-service-api-weixin" />
         <module name="meite-shop-service-api-weixin-dto" />
+        <module name="meite-shop-common-core" />
         <module name="meite-shop-service-api-member" />
         <module name="meite-shop-service-weixin" />
         <module name="meite-shop-service-member" />
@@ -21,6 +22,8 @@
       <module name="meite-shop-api-dto" options="-parameters" />
       <module name="meite-shop-basics-springcloud-eureka" options="-parameters" />
       <module name="meite-shop-basics-springcloud-zuul" options="-parameters" />
+      <module name="meite-shop-common" options="-parameters" />
+      <module name="meite-shop-common-core" options="-parameters" />
       <module name="meite-shop-service-api" options="-parameters" />
       <module name="meite-shop-service-api-member" options="-parameters" />
       <module name="meite-shop-service-api-weixin" options="-parameters" />

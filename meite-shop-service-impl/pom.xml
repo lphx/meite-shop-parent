@@ -18,6 +18,12 @@
 
 
     <dependencies>
+        <dependency>
+            <artifactId>meite-shop-common-core</artifactId>
+            <groupId>cn.phlos</groupId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+
         <!-- springcloud feign组件 -->
         <dependency>
             <groupId>org.springframework.cloud</groupId>

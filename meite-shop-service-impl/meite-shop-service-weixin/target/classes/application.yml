@@ -1,0 +1,8 @@
+
+spring:
+  #  application:
+  #    name: app-mayikt-weixin
+  redis:
+    host: 192.168.248.156
+    port: 6379
+
