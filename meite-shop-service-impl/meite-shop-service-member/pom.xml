@@ -17,6 +17,11 @@
             <artifactId>meite-shop-service-api-member</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
+        <dependency>
+            <groupId>cn.phlos</groupId>
+            <artifactId>meite-shop-service-api-weixin</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
 
         <!--会员调用微信服务-->
         <dependency>

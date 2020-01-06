@@ -8,7 +8,7 @@ import org.springframework.cloud.openfeign.FeignClient;
  * @Autor lipenghong
  * @Date 19:53 2019/12/30
  **/
-@FeignClient("app-mayikt-weixin")
+@FeignClient("new-app-mayikt-weixin")
 public interface WeinXinServiceFeign extends WeiXinService {
 
 }

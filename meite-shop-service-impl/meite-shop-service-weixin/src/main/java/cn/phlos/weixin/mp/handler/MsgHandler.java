@@ -1,8 +1,11 @@
 package cn.phlos.weixin.mp.handler;
 
+import cn.phlos.base.BaseResponse;
 import cn.phlos.constants.Constants;
+import cn.phlos.entity.UserEntity;
 import cn.phlos.util.RedisUtil;
 import cn.phlos.util.RegexUtils;
+import cn.phlos.weixin.feign.MemberServiceFeign;
 import cn.phlos.weixin.mp.builder.TextBuilder;
 
 
@@ -43,6 +46,8 @@ public class MsgHandler extends AbstractHandler {
     @Autowired
     private RedisUtil redisUtil;
 
+    @Autowired
+    private MemberServiceFeign memberServiceFeign;
 
     @Override
 	public WxMpXmlOutMessage handle(WxMpXmlMessage wxMessage, Map<String, Object> context, WxMpService weixinService,
@@ -67,6 +72,14 @@ public class MsgHandler extends AbstractHandler {
         String fromContent = wxMessage.getContent();
         // 2.如果客户端发送消息为手机号码，则发送验证码
         if (RegexUtils.checkMobile(fromContent)) {
+            // 1.根据手机号码调用会员服务接口查询用户信息是否存在
+            BaseResponse<UserEntity> reusltUserInfo = memberServiceFeign.existMobile(fromContent);
+            if (reusltUserInfo.getCode().equals(Constants.HTTP_RES_CODE_200)) {
+                return new TextBuilder().build("该手机号码" + fromContent + "已经存在!", wxMessage, weixinService);
+            }
+            if (!reusltUserInfo.getCode().equals(Constants.HTTP_RES_CODE_EXISTMOBILE_203)) {
+                return new TextBuilder().build(reusltUserInfo.getMsg(), wxMessage, weixinService);
+            }
             // 3.生成随机四位注册码
             int registCode = registCode();
             String content = String.format(registrationCodeMessage, registCode);
