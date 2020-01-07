@@ -2,26 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a94a223e-a6b9-4fbc-bb1d-a7b917494faf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meite-shop-common/meite-shop-common-core/src/main/java/cn/phlos/constants/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-common/meite-shop-common-core/src/main/java/cn/phlos/constants/Constants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meite-shop-common/meite-shop-common-core/target/classes/cn/phlos/constants/Constants.class" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-common/meite-shop-common-core/target/classes/cn/phlos/constants/Constants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-api-dto/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-api-dto/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-api-entity/meite-shop-api-member-entity/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-api-entity/meite-shop-api-member-entity/src/main/java/cn/phlos/entity/UserEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-api-entity/pom.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-member/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-member/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-member/src/main/java/cn/phlos/member/service/MemberRegisterService.java" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-member/src/main/java/cn/phlos/member/service/MemberRegisterService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-member/src/main/java/cn/phlos/member/service/MemberService.java" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-member/src/main/java/cn/phlos/member/service/MemberService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-member/target/classes/cn/phlos/member/service/MemberService.class" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-member/target/classes/cn/phlos/member/service/MemberService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-weixin/src/main/java/cn/phlos/weixin/service/VerificaCodeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-weixin/src/main/java/cn/phlos/weixin/service/VerificaCodeService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/cn/phlos/member/AppMember.java" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/cn/phlos/member/AppMember.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/cn/phlos/member/feign/WeinXinServiceFeign.java" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/cn/phlos/member/feign/WeinXinServiceFeign.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-weixin/target/classes/cn/phlos/weixin/service/VerificaCodeService.class" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-weixin/target/classes/cn/phlos/weixin/service/VerificaCodeService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/cn/phlos/member/AppMember.java" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/cn/phlos/AppMember.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/cn/phlos/member/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/cn/phlos/member/mapper/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/cn/phlos/member/service/impl/MemberRegisterServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/cn/phlos/member/service/impl/MemberRegisterServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/cn/phlos/member/service/impl/MemberServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/cn/phlos/member/service/impl/MemberServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/src/main/java/cn/phlos/weixin/AppWeiXin.java" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/src/main/java/cn/phlos/weixin/AppWeiXin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/target/classes/cn/phlos/member/AppMember.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/target/classes/cn/phlos/member/feign/WeinXinServiceFeign.class" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/target/classes/cn/phlos/member/feign/WeinXinServiceFeign.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/target/classes/cn/phlos/member/service/impl/MemberServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/target/classes/cn/phlos/member/service/impl/MemberServiceImpl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/src/main/java/cn/phlos/weixin/mp/handler/MsgHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/src/main/java/cn/phlos/weixin/mp/handler/MsgHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/target/classes/cn/phlos/weixin/mp/handler/MsgHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/target/classes/cn/phlos/weixin/mp/handler/MsgHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meite-shop-service-impl/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-impl/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/target/classes/cn/phlos/weixin/AppWeiXin.class" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/target/classes/cn/phlos/weixin/AppWeiXin.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -40,6 +44,7 @@
     <ignored path="$PROJECT_DIR$/meite-shop-common/meite-shop-common-core/target/" />
     <ignored path="$PROJECT_DIR$/meite-shop-api-entity/target/" />
     <ignored path="$PROJECT_DIR$/meite-shop-api-entity/meite-shop-api-member-entity/target/" />
+    <ignored path="$PROJECT_DIR$/meite-shop-api-dto/meite-shop-service-api-member-dto/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,8 +59,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/cn/phlos/member/service/impl/MemberRegisterServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-256">
-              <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+            <state relative-caret-position="238">
+              <caret line="49" column="37" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -64,10 +69,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/cn/phlos/member/service/impl/MemberServiceImpl.java">
+        <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/cn/phlos/AppMember.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="34" column="63" lean-forward="true" selection-start-line="34" selection-start-column="63" selection-end-line="34" selection-end-column="63" />
+            <state relative-caret-position="259">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -76,46 +81,9 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/src/main/java/cn/phlos/weixin/feign/MemberServiceFeign.java">
+        <entry file="file://$PROJECT_DIR$/meite-shop-common/meite-shop-common-core/src/main/java/cn/phlos/error/GlobalExceptionHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/src/main/java/cn/phlos/weixin/mp/handler/MsgHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="87" selection-start-line="87" selection-end-line="87" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/cn/phlos/member/feign/VerificaCodeServiceFeign.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="62" lean-forward="true" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-weixin/src/main/java/cn/phlos/weixin/service/VerificaCodeService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+            <state>
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -124,10 +92,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/cn/phlos/member/mapper/UserMapper.java">
+        <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/src/main/java/cn/phlos/weixin/mp/handler/MsgHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+            <state relative-caret-position="57">
+              <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/cn/phlos/member/service/impl/MemberServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="42" column="45" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -136,19 +113,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/cn/phlos/member/feign/WeinXinServiceFeign.java">
+        <entry file="file://D:/百度云下载的东西/java架构/四期实战项目/007-每特教育&amp;蚂蚁课堂-第四期-基于SpringCloud构建微服务电商项目-微服务接口细分安全领域/mayikt_code/meite-shop-service-impl/meite-shop-service-member/src/main/java/com/mayikt/member/service/impl/MemberRegisterServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+            <state relative-caret-position="202">
+              <caret line="54" column="8" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="73" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/src/main/resources/application.yml">
+        <entry file="file://D:/百度云下载的东西/java架构/四期实战项目/007-每特教育&amp;蚂蚁课堂-第四期-基于SpringCloud构建微服务电商项目-微服务接口细分安全领域/mayikt_code/meite-shop-service-impl/meite-shop-service-member/src/main/java/com/mayikt/member/service/impl/MemberServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+            <state relative-caret-position="354">
+              <caret line="46" column="86" lean-forward="true" selection-start-line="45" selection-start-column="8" selection-end-line="46" selection-end-column="86" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/cn/phlos/member/mapper/entity/UserDo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="13" column="19" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -156,8 +142,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="13" column="13" lean-forward="true" selection-end-line="18" />
+            <state relative-caret-position="316">
+              <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/meite-shop-common/meite-shop-common-core/src/main/java/cn/phlos/util/MiteBeanUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-133">
+              <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -171,18 +166,20 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>userEntity</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-eureka/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-zuul/pom.xml" />
-        <option value="$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-zuul/src/main/java/cn/phlos/MyCommandLineRunner.java" />
-        <option value="$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-zuul/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-zuul/src/main/java/cn/phlos/AppGateWay.java" />
         <option value="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/src/main/java/cn/phlos/weixin/mp/error/ErrorController.java" />
         <option value="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/src/main/java/cn/phlos/weixin/mp/handler/ScanHandler.java" />
         <option value="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/src/main/java/cn/phlos/weixin/mp/handler/SubscribeHandler.java" />
@@ -207,27 +204,33 @@
         <option value="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/meite-shop-api-entity/pom.xml" />
         <option value="$PROJECT_DIR$/meite-shop-api-entity/meite-shop-api-member-entity/src/main/java/cn/phlos/entity/UserEntity.java" />
-        <option value="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-member/pom.xml" />
-        <option value="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-member/src/main/java/cn/phlos/member/service/MemberRegisterService.java" />
         <option value="$PROJECT_DIR$/meite-shop-service-impl/pom.xml" />
         <option value="$PROJECT_DIR$/meite-shop-common/meite-shop-common-core/src/main/java/cn/phlos/util/MD5Util.java" />
         <option value="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/cn/phlos/member/service/MemberRegisterServiceImpl.java" />
         <option value="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/cn/phlos/member/AppMember.java" />
-        <option value="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-member/src/main/java/cn/phlos/member/service/MemberService.java" />
-        <option value="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/cn/phlos/member/mapper/UserMapper.java" />
-        <option value="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/pom.xml" />
         <option value="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/pom.xml" />
         <option value="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/cn/phlos/member/feign/VerificaCodeServiceFeign.java" />
-        <option value="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/cn/phlos/member/service/impl/MemberRegisterServiceImpl.java" />
         <option value="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/src/main/java/cn/phlos/weixin/feign/MemberServiceFeign.java" />
         <option value="$PROJECT_DIR$/meite-shop-common/meite-shop-common-core/src/main/java/cn/phlos/constants/Constants.java" />
-        <option value="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/src/main/java/cn/phlos/weixin/mp/handler/MsgHandler.java" />
         <option value="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/src/main/java/cn/phlos/weixin/AppWeiXin.java" />
         <option value="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/cn/phlos/member/feign/WeinXinServiceFeign.java" />
-        <option value="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/cn/phlos/member/service/impl/MemberServiceImpl.java" />
         <option value="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-weixin/src/main/java/cn/phlos/weixin/service/VerificaCodeService.java" />
+        <option value="$PROJECT_DIR$/meite-shop-api-dto/pom.xml" />
+        <option value="$PROJECT_DIR$/meite-shop-api-dto/meite-shop-service-api-member-dto/src/main/java/cn/phlos/member/output/dto/UserOutDTO.java" />
+        <option value="$PROJECT_DIR$/meite-shop-api-dto/meite-shop-service-api-member-dto/src/main/java/cn/phlos/member/input/dto/UserInpDTO.java" />
+        <option value="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-member/pom.xml" />
+        <option value="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-member/src/main/java/cn/phlos/member/service/MemberRegisterService.java" />
+        <option value="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-member/src/main/java/cn/phlos/member/service/MemberService.java" />
+        <option value="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/cn/phlos/member/mapper/entity/UserDo.java" />
+        <option value="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/cn/phlos/member/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/meite-shop-common/meite-shop-common-core/src/main/java/cn/phlos/error/GlobalExceptionHandler.java" />
+        <option value="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/meite-shop-common/meite-shop-common-core/src/main/java/cn/phlos/util/MiteBeanUtils.java" />
+        <option value="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/cn/phlos/member/service/impl/MemberRegisterServiceImpl.java" />
+        <option value="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/cn/phlos/member/service/impl/MemberServiceImpl.java" />
+        <option value="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/src/main/java/cn/phlos/weixin/mp/handler/MsgHandler.java" />
       </list>
     </option>
   </component>
@@ -272,8 +275,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -284,79 +285,6 @@
             <path>
               <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="meite-shop-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-api-entity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meite-shop-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-api-entity" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-api-member-entity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meite-shop-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-api-entity" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-api-member-entity" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meite-shop-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-api-entity" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-api-member-entity" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meite-shop-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-api-entity" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-api-member-entity" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meite-shop-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-api-entity" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-api-member-entity" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meite-shop-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-api-entity" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-api-member-entity" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="phlos" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meite-shop-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-api-entity" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-api-member-entity" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="phlos" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meite-shop-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-basics" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meite-shop-parent" type="462c0819:PsiDirectoryNode" />
               <item name="meite-shop-common" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -409,18 +337,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="cn" type="462c0819:PsiDirectoryNode" />
               <item name="phlos" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meite-shop-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-common" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-common-core" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="phlos" type="462c0819:PsiDirectoryNode" />
-              <item name="constants" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
@@ -437,163 +353,6 @@
             <path>
               <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="meite-shop-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meite-shop-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-api" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-api-member" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meite-shop-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-api" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-api-member" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meite-shop-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-api" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-api-member" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meite-shop-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-api" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-api-member" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meite-shop-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-api" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-api-member" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meite-shop-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-api" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-api-member" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="phlos" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meite-shop-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-api" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-api-member" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="phlos" type="462c0819:PsiDirectoryNode" />
-              <item name="member" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meite-shop-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-api" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-api-member" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="phlos" type="462c0819:PsiDirectoryNode" />
-              <item name="member" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meite-shop-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-api" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-api-weixin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meite-shop-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-api" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-api-weixin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meite-shop-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-api" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-api-weixin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meite-shop-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-api" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-api-weixin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meite-shop-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-api" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-api-weixin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meite-shop-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-api" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-api-weixin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="phlos" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meite-shop-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-api" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-api-weixin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="phlos" type="462c0819:PsiDirectoryNode" />
-              <item name="weixin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meite-shop-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-api" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-api-weixin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="phlos" type="462c0819:PsiDirectoryNode" />
-              <item name="weixin" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meite-shop-parent" type="462c0819:PsiDirectoryNode" />
               <item name="meite-shop-service-impl" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -658,32 +417,6 @@
               <item name="cn" type="462c0819:PsiDirectoryNode" />
               <item name="phlos" type="462c0819:PsiDirectoryNode" />
               <item name="member" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meite-shop-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-member" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="phlos" type="462c0819:PsiDirectoryNode" />
-              <item name="member" type="462c0819:PsiDirectoryNode" />
-              <item name="feign" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meite-shop-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-member" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="phlos" type="462c0819:PsiDirectoryNode" />
-              <item name="member" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
@@ -783,19 +516,6 @@
               <item name="cn" type="462c0819:PsiDirectoryNode" />
               <item name="phlos" type="462c0819:PsiDirectoryNode" />
               <item name="weixin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meite-shop-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-weixin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="phlos" type="462c0819:PsiDirectoryNode" />
-              <item name="weixin" type="462c0819:PsiDirectoryNode" />
-              <item name="feign" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
@@ -824,46 +544,12 @@
               <item name="mp" type="462c0819:PsiDirectoryNode" />
               <item name="handler" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meite-shop-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-weixin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="phlos" type="462c0819:PsiDirectoryNode" />
-              <item name="weixin" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meite-shop-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-weixin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="phlos" type="462c0819:PsiDirectoryNode" />
-              <item name="weixin" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meite-shop-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-weixin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -875,7 +561,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/src/main/java/cn/phlos/weixin/mp/handler" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/cn/phlos/member/feign" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/cn/phlos/member/mapper" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -890,16 +576,17 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\idea\newWork\meite-shop-parent\meite-shop-api-dto\meite-shop-service-api-member-dto\src\main\java\cn\phlos\member\input\dto" />
+      <recent name="D:\idea\newWork\meite-shop-parent\meite-shop-basics\meite-shop-basics-springcloud-eureka\src\main\resources" />
+      <recent name="D:\idea\newWork\meite-shop-parent\meite-shop-basics\meite-shop-basics-springcloud-eureka\src\main\java\cn.phlos" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idea\newWork\meite-shop-parent\meite-shop-service-impl\meite-shop-service-member\src\main\java\cn\phlos\member\mapper" />
+      <recent name="D:\idea\newWork\meite-shop-parent\meite-shop-api-dto\meite-shop-service-api-member-dto\src\main\java\cn\phlos\member\output\dto" />
       <recent name="D:\idea\newWork\meite-shop-parent\meite-shop-service-impl\meite-shop-service-member\src\main\java\cn\phlos\member\feign" />
       <recent name="D:\idea\newWork\meite-shop-parent\meite-shop-service-impl\meite-shop-service-weixin\src\main\java\cn\phlos\weixin" />
       <recent name="D:\idea\newWork\meite-shop-parent\meite-shop-service-impl\meite-shop-service-member\src\main\resources" />
-      <recent name="D:\idea\newWork\meite-shop-parent\meite-shop-service-impl\meite-shop-service-weixin\src\main\resources" />
-      <recent name="D:\idea\newWork\meite-shop-parent\meite-shop-basics\meite-shop-basics-springcloud-zuul\src\main\resources" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\idea\newWork\meite-shop-parent\meite-shop-basics\meite-shop-basics-springcloud-eureka\src\main\resources" />
-      <recent name="D:\idea\newWork\meite-shop-parent\meite-shop-basics\meite-shop-basics-springcloud-eureka\src\main\java\cn.phlos" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -914,7 +601,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.AppWeiXin">
+  <component name="RunManager" selected="Spring Boot.AppMember">
     <configuration name="AppEureka" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="meite-shop-basics-springcloud-eureka" />
       <extension name="coverage">
@@ -949,7 +636,7 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.phlos.member.AppMember" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.phlos.AppMember" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -969,8 +656,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.AppWeiXin" />
         <item itemvalue="Spring Boot.AppMember" />
+        <item itemvalue="Spring Boot.AppWeiXin" />
         <item itemvalue="Spring Boot.AppGateWay" />
         <item itemvalue="Spring Boot.AppEureka" />
       </list>
@@ -993,6 +680,7 @@
       <workItem from="1578117632923" duration="788000" />
       <workItem from="1578201124418" duration="14243000" />
       <workItem from="1578307003707" duration="6519000" />
+      <workItem from="1578395474634" duration="3926000" />
     </task>
     <task id="LOCAL-00001" summary="微服务项目">
       <created>1577719224343</created>
@@ -1026,12 +714,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39618000" />
+    <option name="totallyTimeSpent" value="43544000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.269437" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2727882" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -1092,75 +780,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/src/main/java/cn/phlos/weixin/mp/handler/SubscribeHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="52" column="36" selection-start-line="52" selection-start-column="36" selection-end-line="52" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/src/main/java/cn/phlos/weixin/mp/controller/WxMenuController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/src/main/java/cn/phlos/weixin/mp/config/WxMpProperties.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/src/main/java/cn/phlos/weixin/mp/controller/WxRedirectController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/src/main/java/cn/phlos/weixin/mp/handler/LocationHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="28" column="40" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/src/main/java/cn/phlos/weixin/mp/handler/LogHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/src/main/java/cn/phlos/weixin/mp/config/WxMpConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-228">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/src/main/java/cn/phlos/weixin/mp/handler/NullHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3">
-          <caret column="26" selection-start-column="8" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meite-shop-common/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="39" selection-start-line="5" selection-start-column="7" selection-end-line="7" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/meite-shop-common/meite-shop-common-core/src/main/java/cn/phlos/util/RegexUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="124">
@@ -1242,25 +861,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-weixin/src/main/java/cn/phlos/weixin/service/WeiXinService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/meite-shop-api-entity/meite-shop-api-member-entity/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meite-shop-api-dto/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/meite-shop-api-dto/meite-shop-service-api-weixin-dto/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
@@ -1289,20 +895,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/meite-shop-service-api/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="466">
-          <caret line="31" column="21" selection-start-line="26" selection-start-column="6" selection-end-line="31" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-member/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="447">
@@ -1312,40 +904,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/meite-shop-common/meite-shop-common-core/src/main/java/cn/phlos/util/MD5Util.java">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-member/src/main/java/cn/phlos/member/service/MemberRegisterService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-member/src/main/java/cn/phlos/member/service/MemberService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/cn/phlos/member/AppMember.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="53" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -1388,61 +946,10 @@
         <state relative-caret-position="-591" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="13" column="13" lean-forward="true" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/src/main/java/cn/phlos/weixin/feign/MemberServiceFeign.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/cn/phlos/member/service/impl/MemberRegisterServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-256">
-          <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/cn/phlos/member/service/impl/MemberServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="34" column="63" lean-forward="true" selection-start-line="34" selection-start-column="63" selection-end-line="34" selection-end-column="63" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/io/github/openfeign/feign-core/10.2.3/feign-core-10.2.3.jar!/feign/ReflectiveFeign.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="339" selection-start-line="339" selection-end-line="339" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/cn/phlos/member/feign/WeinXinServiceFeign.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -1456,10 +963,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/src/main/java/cn/phlos/weixin/mp/handler/MsgHandler.java">
+    <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/src/main/java/cn/phlos/weixin/feign/MemberServiceFeign.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="87" selection-start-line="87" selection-end-line="87" />
+        <state relative-caret-position="190">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1468,31 +975,198 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/cn/phlos/member/feign/VerificaCodeServiceFeign.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="62" lean-forward="true" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
+        <state relative-caret-position="114">
+          <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/cn/phlos/member/feign/WeinXinServiceFeign.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-api-dto/ meite-shop-service-api-member-dto/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-api-dto/meite-shop-service-api-member-dto/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-service-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="31" column="21" selection-start-line="26" selection-start-column="6" selection-end-line="31" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-api-dto/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-api-dto/meite-shop-service-api-member-dto/src/main/java/cn/phlos/member/output/dto/UserOutDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-api-dto/meite-shop-service-api-member-dto/src/main/java/cn/phlos/member/input/dto/UserInpDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-member/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="53" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-member/src/main/java/cn/phlos/member/service/MemberRegisterService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-member/src/main/java/cn/phlos/member/service/MemberService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-weixin/src/main/java/cn/phlos/weixin/service/VerificaCodeService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+        <state relative-caret-position="376">
+          <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/cn/phlos/member/mapper/UserMapper.java">
+    <entry file="file://$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-weixin/src/main/java/cn/phlos/weixin/service/WeiXinService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        <state relative-caret-position="323">
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="21" column="53" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/cn/phlos/member/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/cn/phlos/member/mapper/entity/UserDo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/cn/phlos/AppMember.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-common/meite-shop-common-core/src/main/java/cn/phlos/util/MiteBeanUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-133">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/百度云下载的东西/java架构/四期实战项目/007-每特教育&amp;蚂蚁课堂-第四期-基于SpringCloud构建微服务电商项目-微服务接口细分安全领域/mayikt_code/meite-shop-service-impl/meite-shop-service-member/src/main/java/com/mayikt/member/service/impl/MemberRegisterServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="54" column="8" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/百度云下载的东西/java架构/四期实战项目/007-每特教育&amp;蚂蚁课堂-第四期-基于SpringCloud构建微服务电商项目-微服务接口细分安全领域/mayikt_code/meite-shop-service-impl/meite-shop-service-member/src/main/java/com/mayikt/member/service/impl/MemberServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="46" column="86" lean-forward="true" selection-start-line="45" selection-start-column="8" selection-end-line="46" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-common/meite-shop-common-core/src/main/java/cn/phlos/error/GlobalExceptionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/cn/phlos/member/service/impl/MemberRegisterServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="49" column="37" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/cn/phlos/member/service/impl/MemberServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="42" column="45" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/src/main/java/cn/phlos/weixin/mp/handler/MsgHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
         </state>
       </provider>
     </entry>

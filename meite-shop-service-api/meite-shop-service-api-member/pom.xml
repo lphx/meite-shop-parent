@@ -20,7 +20,7 @@
 
         <dependency>
             <groupId>cn.phlos</groupId>
-            <artifactId>meite-shop-api-member-entity</artifactId>
+            <artifactId>meite-shop-service-api-member-dto</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
     </dependencies>

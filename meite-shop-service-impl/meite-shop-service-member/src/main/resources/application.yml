@@ -16,3 +16,7 @@ spring:
     password: li15775063262
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://120.78.151.208:3306/meiti?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC
+####打印MyBatias日志
+logging:
+  level:
+    cn.phlos.member.mapper: DEBUG

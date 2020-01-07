@@ -2,7 +2,7 @@ package cn.phlos.weixin.mp.handler;
 
 import cn.phlos.base.BaseResponse;
 import cn.phlos.constants.Constants;
-import cn.phlos.entity.UserEntity;
+import cn.phlos.member.output.dto.UserOutDTO;
 import cn.phlos.util.RedisUtil;
 import cn.phlos.util.RegexUtils;
 import cn.phlos.weixin.feign.MemberServiceFeign;
@@ -73,7 +73,7 @@ public class MsgHandler extends AbstractHandler {
         // 2.如果客户端发送消息为手机号码，则发送验证码
         if (RegexUtils.checkMobile(fromContent)) {
             // 1.根据手机号码调用会员服务接口查询用户信息是否存在
-            BaseResponse<UserEntity> reusltUserInfo = memberServiceFeign.existMobile(fromContent);
+            BaseResponse<UserOutDTO> reusltUserInfo = memberServiceFeign.existMobile(fromContent);
             if (reusltUserInfo.getCode().equals(Constants.HTTP_RES_CODE_200)) {
                 return new TextBuilder().build("该手机号码" + fromContent + "已经存在!", wxMessage, weixinService);
             }
