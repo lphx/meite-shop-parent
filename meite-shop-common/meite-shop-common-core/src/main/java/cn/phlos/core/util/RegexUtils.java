@@ -1,4 +1,4 @@
-package cn.phlos.util;
+package cn.phlos.core.util;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

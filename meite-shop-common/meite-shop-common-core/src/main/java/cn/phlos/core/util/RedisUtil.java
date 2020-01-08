@@ -1,4 +1,4 @@
-package cn.phlos.util;
+package cn.phlos.core.util;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.redis.core.StringRedisTemplate;
@@ -53,10 +53,12 @@ public class RedisUtil {
 
 	/**
 	 * 根据对应的key删除key
-	 * 
+	 *
 	 * @param key
+	 * @return
 	 */
-	public void delKey(String key) {
-		stringRedisTemplate.delete(key);
+	public Boolean delKey(String key) {
+
+		return stringRedisTemplate.delete(key);
 	}
 }
