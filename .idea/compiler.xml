@@ -8,9 +8,9 @@
         <outputRelativeToContentRoot value="true" />
         <module name="meite-shop-basics-springcloud-zuul" />
         <module name="meite-shop-service-api-weixin" />
+        <module name="meite-shop-portal-web" />
         <module name="meite-shop-service-api-weixin-dto" />
         <module name="meite-shop-service-api-member-dto" />
-        <module name="meite-shop-api-member-entity" />
         <module name="meite-shop-common-core" />
         <module name="meite-shop-service-api-member" />
         <module name="meite-shop-service-weixin" />
@@ -20,6 +20,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="meite-shop-api-entity" target="1.8" />
+      <module name="meite-shop-api-member-entity" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -31,6 +32,8 @@
       <module name="meite-shop-basics-springcloud-zuul" options="-parameters" />
       <module name="meite-shop-common" options="-parameters" />
       <module name="meite-shop-common-core" options="-parameters" />
+      <module name="meite-shop-portal" options="-parameters" />
+      <module name="meite-shop-portal-web" options="-parameters" />
       <module name="meite-shop-service-api" options="-parameters" />
       <module name="meite-shop-service-api-member" options="-parameters" />
       <module name="meite-shop-service-api-member-dto" options="-parameters" />

@@ -1,6 +1,5 @@
 package cn.phlos.member.service.impl;
 
-import cn.phlos.AppEntity;
 import cn.phlos.base.BaseApiService;
 import cn.phlos.base.BaseResponse;
 import cn.phlos.constants.Constants;
@@ -9,7 +8,7 @@ import cn.phlos.member.mapper.UserMapper;
 import cn.phlos.member.mapper.entity.UserDo;
 import cn.phlos.member.output.dto.UserOutDTO;
 import cn.phlos.member.service.MemberService;
-import cn.phlos.util.MiteBeanUtils;
+import cn.phlos.core.bean.MiteBeanUtils;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RestController;

@@ -2,8 +2,7 @@ spring:
   #  application:
   #    name: app-mayikt-weixin
   redis:
-    host: 188.131.155.46
-    password: 123456
+    host: 192.168.248.157
     port: 6379
     pool:
       max-idle: 100

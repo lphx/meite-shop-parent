@@ -3,7 +3,7 @@ package cn.phlos.weixin.service.impl;
 import cn.phlos.base.BaseApiService;
 import cn.phlos.base.BaseResponse;
 import cn.phlos.constants.Constants;
-import cn.phlos.util.RedisUtil;
+import cn.phlos.core.util.RedisUtil;
 import cn.phlos.weixin.service.VerificaCodeService;
 import com.alibaba.fastjson.JSONObject;
 import org.apache.commons.lang3.StringUtils;

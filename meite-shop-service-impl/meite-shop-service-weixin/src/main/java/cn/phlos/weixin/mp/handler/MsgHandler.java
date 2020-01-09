@@ -3,8 +3,8 @@ package cn.phlos.weixin.mp.handler;
 import cn.phlos.base.BaseResponse;
 import cn.phlos.constants.Constants;
 import cn.phlos.member.output.dto.UserOutDTO;
-import cn.phlos.util.RedisUtil;
-import cn.phlos.util.RegexUtils;
+import cn.phlos.core.util.RedisUtil;
+import cn.phlos.core.util.RegexUtils;
 import cn.phlos.weixin.feign.MemberServiceFeign;
 import cn.phlos.weixin.mp.builder.TextBuilder;
 
