@@ -1,0 +1,21 @@
+spring:
+  #  application:
+  #    name: app-mayikt-weixin
+  redis:
+    host: 192.168.248.157
+    port: 6379
+    pool:
+      max-idle: 100
+      min-idle: 1
+      max-active: 1000
+      max-wait: -1
+  ###数据库相关连接
+  datasource:
+    username: root
+    password: li15775063262
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://120.78.151.208:3306/meiti?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC
+####打印MyBatias日志
+logging:
+  level:
+    cn.phlos.member.mapper: DEBUG
