@@ -14,8 +14,18 @@
 
     <dependencies>
         <dependency>
+            <artifactId>meite-shop-service-api-member</artifactId>
+            <groupId>cn.phlos</groupId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+        <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-freemarker</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>cn.phlos</groupId>
+            <artifactId>meite-shop-common-web-core</artifactId>
+            <version>1.0-SNAPSHOT</version>
         </dependency>
     </dependencies>
 </project>
