@@ -2,31 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a94a223e-a6b9-4fbc-bb1d-a7b917494faf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/meite-shop-common/meite-shop-common-core/src/main/java/cn/phlos/base/MeiteBeanUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meite-shop-common/meite-shop-common-core/target/classes/cn/phlos/base/MeiteBeanUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meite-shop-common/meite-shop-common-core/target/classes/cn/phlos/core/type/TypeCastHelper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meite-shop-common/meite-shop-common-web-core/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meite-shop-common/meite-shop-common-web-core/src/main/java/cn/phlos/web/base/BaseWebController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meite-shop-common/meite-shop-common-web-core/src/main/java/cn/phlos/web/utils/CookieUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meite-shop-common/meite-shop-common-web-core/src/main/java/cn/phlos/web/utils/RandomValidateCodeUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meite-shop-common/meite-shop-common-web-core/target/classes/cn/phlos/web/base/BaseWebController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meite-shop-common/meite-shop-common-web-core/target/classes/cn/phlos/web/utils/CookieUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meite-shop-common/meite-shop-common-web-core/target/classes/cn/phlos/web/utils/RandomValidateCodeUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meite-shop-portal/meite-shop-portal-web/src/main/java/cn/phlos/code/VerifyController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meite-shop-portal/meite-shop-portal-web/src/main/java/cn/phlos/member/controller/req/vo/LoginVo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meite-shop-portal/meite-shop-portal-web/src/main/java/cn/phlos/member/controller/req/vo/RegisterVo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meite-shop-portal/meite-shop-portal-web/src/main/java/cn/phlos/member/feign/MemberLoginServiceFeign.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meite-shop-portal/meite-shop-portal-web/src/main/java/cn/phlos/member/feign/MemberRegisterServiceFeign.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meite-shop-portal/meite-shop-portal-web/src/main/java/cn/phlos/member/feign/MemberServiceFeign.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meite-shop-portal/meite-shop-portal-web/src/main/java/cn/phlos/web/constants/WebConstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meite-shop-portal/meite-shop-portal-web/target/classes/cn/phlos/code/VerifyController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meite-shop-portal/meite-shop-portal-web/target/classes/cn/phlos/member/controller/req/vo/LoginVo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meite-shop-portal/meite-shop-portal-web/target/classes/cn/phlos/member/controller/req/vo/RegisterVo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meite-shop-portal/meite-shop-portal-web/target/classes/cn/phlos/member/feign/MemberLoginServiceFeign.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meite-shop-portal/meite-shop-portal-web/target/classes/cn/phlos/member/feign/MemberRegisterServiceFeign.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meite-shop-portal/meite-shop-portal-web/target/classes/cn/phlos/member/feign/MemberServiceFeign.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meite-shop-portal/meite-shop-portal-web/target/classes/cn/phlos/web/constants/WebConstants.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-portal/meite-shop-portal-web/src/main/java/cn/phlos/portal/controller/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-portal/meite-shop-portal-web/src/main/java/cn/phlos/portal/controller/IndexController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -224,7 +201,7 @@
       <workItem from="1578565715682" duration="3551000" />
       <workItem from="1578747185243" duration="833000" />
       <workItem from="1578811498305" duration="2635000" />
-      <workItem from="1578814430128" duration="10142000" />
+      <workItem from="1578814430128" duration="11262000" />
     </task>
     <task id="LOCAL-00001" summary="微服务项目">
       <created>1577719224343</created>
@@ -289,7 +266,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578841371004</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="注册,登录功能">
+      <created>1578925534540</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1578925534540</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -304,10 +288,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="注册,登录功能" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="141" y="6" key="CommitChangelistDialog2" timestamp="1578841358906">
+    <state x="141" y="6" key="CommitChangelistDialog2" timestamp="1578925529548">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="141" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1578841358906" />
+    <state x="141" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1578925529548" />
     <state width="1493" height="262" key="GridCell.Tab.0.bottom" timestamp="1578841165036">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -344,10 +328,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1578814395341" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1578841383061">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1578926029990">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1578841383061" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1578926029990" />
     <state x="447" y="374" key="com.intellij.ide.util.TipDialog" timestamp="1578814449440">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
