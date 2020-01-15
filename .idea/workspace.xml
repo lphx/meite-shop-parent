@@ -201,7 +201,7 @@
       <workItem from="1578565715682" duration="3551000" />
       <workItem from="1578747185243" duration="833000" />
       <workItem from="1578811498305" duration="2635000" />
-      <workItem from="1578814430128" duration="11262000" />
+      <workItem from="1578814430128" duration="11928000" />
     </task>
     <task id="LOCAL-00001" summary="微服务项目">
       <created>1577719224343</created>
@@ -273,7 +273,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578925534540</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="注册,登录功能">
+      <created>1579009593889</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1579009593889</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -288,10 +295,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="注册,登录功能" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="141" y="6" key="CommitChangelistDialog2" timestamp="1578925529548">
+    <state x="141" y="6" key="CommitChangelistDialog2" timestamp="1579009590530">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="141" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1578925529548" />
+    <state x="141" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1579009590530" />
     <state width="1493" height="262" key="GridCell.Tab.0.bottom" timestamp="1578841165036">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -328,10 +335,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1578814395341" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1578926029990">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1579009602094">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1578926029990" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1579009602094" />
     <state x="447" y="374" key="com.intellij.ide.util.TipDialog" timestamp="1578814449440">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
