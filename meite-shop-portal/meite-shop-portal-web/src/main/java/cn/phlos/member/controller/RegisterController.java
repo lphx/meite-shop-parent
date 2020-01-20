@@ -19,35 +19,48 @@ import org.springframework.web.bind.annotation.PostMapping;
 
 import javax.servlet.http.HttpSession;
 
+
+/**
+ * 
+ * 
+ * 
+ * @description: 注册请求
+ * @author: 97后互联网架构师-余胜军
+ * @contact: QQ644064779、微信yushengjun644 www.mayikt.com
+ * @date: 2019年1月3日 下午3:03:17
+ * @version V1.0
+ * @Copyright 该项目“基于SpringCloud2.x构建微服务电商项目”由每特教育|蚂蚁课堂版权所有，未经过允许的情况下，
+ *            私自分享视频和源码属于违法行为。
+ */
 @Controller
 public class RegisterController extends BaseWebController {
 	private static final String MB_REGISTER_FTL = "member/register";
-
 	@Autowired
 	private MemberRegisterServiceFeign memberRegisterServiceFeign;
-	/**
 	/**
 	 * 跳转到登陆页面页面
 	 */
 	private static final String MB_LOGIN_FTL = "member/login";
+
 	/**
 	 * 跳转到注册页面
 	 * 
 	 * @return
 	 */
-	@GetMapping("/register.html")
+	@GetMapping("/register")
+
 	public String getRegister() {
 		return MB_REGISTER_FTL;
 	}
 
 	/**
 	 * 跳转到注册页面
-	 *
+	 * 
 	 * @return
 	 */
 	@PostMapping("/register")
 	public String postRegister(@ModelAttribute("registerVo") @Validated RegisterVo registerVo,
-							   BindingResult bindingResult, Model model, HttpSession httpSession) {
+			BindingResult bindingResult, Model model, HttpSession httpSession) {
 		// 1.接受表单参数 (验证码) 创建对象接受参数 vo do dto
 		if (bindingResult.hasErrors()) {
 			// 如果参数有错误的话

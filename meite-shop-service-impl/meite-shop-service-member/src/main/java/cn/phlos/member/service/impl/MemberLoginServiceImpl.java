@@ -111,6 +111,11 @@ public class MemberLoginServiceImpl extends BaseApiService<JSONObject> implement
 				manualTransaction.rollback(transactionStatus);
 				return setResultError("系统错误!");
 			}
+			// openid关联用户账号信息
+			String qqOpenId = userLoginInpDTO.getQqOpenId();
+			if (!StringUtils.isEmpty(qqOpenId)) {
+				userMapper.updateUserOpenId(qqOpenId, userId);
+			}
 
 			// #######提交事务
 			JSONObject data = new JSONObject();

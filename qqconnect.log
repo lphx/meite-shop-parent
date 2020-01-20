@@ -1,0 +1,580 @@
+0    DEBUG [2020-01-19 20:51:13]  Couldn't find template in cache for "error.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+10   DEBUG [2020-01-19 20:51:13]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+11   DEBUG [2020-01-19 20:51:13]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+12   DEBUG [2020-01-19 20:51:13]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+0    DEBUG [2020-01-19 21:14:39]  Couldn't find template in cache for "500.ftl.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+6    DEBUG [2020-01-19 21:14:39]  TemplateLoader.findTemplateSource("500.ftl_zh_CN.ftl"): Not found
+8    DEBUG [2020-01-19 21:14:39]  TemplateLoader.findTemplateSource("500.ftl_zh.ftl"): Not found
+9    DEBUG [2020-01-19 21:14:39]  TemplateLoader.findTemplateSource("500.ftl.ftl"): Not found
+48   DEBUG [2020-01-19 21:14:39]  Couldn't find template in cache for "error.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+48   DEBUG [2020-01-19 21:14:39]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+49   DEBUG [2020-01-19 21:14:39]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+51   DEBUG [2020-01-19 21:14:39]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+0    DEBUG [2020-01-19 21:18:57]  Couldn't find template in cache for "500.ftl.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+5    DEBUG [2020-01-19 21:18:57]  TemplateLoader.findTemplateSource("500.ftl_zh_CN.ftl"): Not found
+7    DEBUG [2020-01-19 21:18:57]  TemplateLoader.findTemplateSource("500.ftl_zh.ftl"): Not found
+7    DEBUG [2020-01-19 21:18:57]  TemplateLoader.findTemplateSource("500.ftl.ftl"): Not found
+45   DEBUG [2020-01-19 21:18:57]  Couldn't find template in cache for "error.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+45   DEBUG [2020-01-19 21:18:57]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+46   DEBUG [2020-01-19 21:18:57]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+47   DEBUG [2020-01-19 21:18:57]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+0    DEBUG [2020-01-19 21:20:59]  Couldn't find template in cache for "500.ftl.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+10   DEBUG [2020-01-19 21:20:59]  TemplateLoader.findTemplateSource("500.ftl_zh_CN.ftl"): Not found
+10   DEBUG [2020-01-19 21:20:59]  TemplateLoader.findTemplateSource("500.ftl_zh.ftl"): Not found
+10   DEBUG [2020-01-19 21:20:59]  TemplateLoader.findTemplateSource("500.ftl.ftl"): Not found
+68   DEBUG [2020-01-19 21:20:59]  Couldn't find template in cache for "error.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+69   DEBUG [2020-01-19 21:20:59]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+71   DEBUG [2020-01-19 21:20:59]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+71   DEBUG [2020-01-19 21:20:59]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+0    DEBUG [2020-01-19 21:21:49]  Couldn't find template in cache for "500.ftl.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+3    DEBUG [2020-01-19 21:21:49]  TemplateLoader.findTemplateSource("500.ftl_zh_CN.ftl"): Not found
+6    DEBUG [2020-01-19 21:21:49]  TemplateLoader.findTemplateSource("500.ftl_zh.ftl"): Not found
+6    DEBUG [2020-01-19 21:21:49]  TemplateLoader.findTemplateSource("500.ftl.ftl"): Not found
+41   DEBUG [2020-01-19 21:21:49]  Couldn't find template in cache for "error.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+42   DEBUG [2020-01-19 21:21:49]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+42   DEBUG [2020-01-19 21:21:49]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+43   DEBUG [2020-01-19 21:21:49]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+1    DEBUG [2020-01-19 21:23:45]  Couldn't find template in cache for "500.ftl.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+12   DEBUG [2020-01-19 21:23:45]  TemplateLoader.findTemplateSource("500.ftl_zh_CN.ftl"): Not found
+16   DEBUG [2020-01-19 21:23:45]  TemplateLoader.findTemplateSource("500.ftl_zh.ftl"): Not found
+17   DEBUG [2020-01-19 21:23:45]  TemplateLoader.findTemplateSource("500.ftl.ftl"): Not found
+93   DEBUG [2020-01-19 21:23:45]  Couldn't find template in cache for "error.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+96   DEBUG [2020-01-19 21:23:45]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+97   DEBUG [2020-01-19 21:23:45]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+97   DEBUG [2020-01-19 21:23:45]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+6822 DEBUG [2020-01-19 21:23:52]  Couldn't find template in cache for "index.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+6823 DEBUG [2020-01-19 21:23:52]  TemplateLoader.findTemplateSource("index_zh_CN.ftl"): Not found
+6825 DEBUG [2020-01-19 21:23:52]  TemplateLoader.findTemplateSource("index_zh.ftl"): Not found
+6832 DEBUG [2020-01-19 21:23:52]  TemplateLoader.findTemplateSource("index.ftl"): Found
+6833 DEBUG [2020-01-19 21:23:52]  Loading template for "index.ftl"("zh_CN", UTF-8, parsed) from "D:\\idea\\newWork\\meite-shop-parent\\meite-shop-portal\\meite-shop-portal-web\\target\\classes\\templates\\index.ftl"
+6926 DEBUG [2020-01-19 21:23:52]  "index.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+6932 DEBUG [2020-01-19 21:23:52]  Couldn't find template in cache for "base/head.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+6932 DEBUG [2020-01-19 21:23:52]  TemplateLoader.findTemplateSource("base/head_zh_CN.ftl"): Not found
+6933 DEBUG [2020-01-19 21:23:52]  TemplateLoader.findTemplateSource("base/head_zh.ftl"): Not found
+6936 DEBUG [2020-01-19 21:23:52]  TemplateLoader.findTemplateSource("base/head.ftl"): Found
+6936 DEBUG [2020-01-19 21:23:52]  Loading template for "base/head.ftl"("zh_CN", UTF-8, parsed) from "D:\\idea\\newWork\\meite-shop-parent\\meite-shop-portal\\meite-shop-portal-web\\target\\classes\\templates\\base\\head.ftl"
+6939 DEBUG [2020-01-19 21:23:52]  Couldn't find template in cache for "base/bottom.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+6940 DEBUG [2020-01-19 21:23:52]  TemplateLoader.findTemplateSource("base/bottom_zh_CN.ftl"): Not found
+6941 DEBUG [2020-01-19 21:23:52]  TemplateLoader.findTemplateSource("base/bottom_zh.ftl"): Not found
+6942 DEBUG [2020-01-19 21:23:52]  TemplateLoader.findTemplateSource("base/bottom.ftl"): Found
+6942 DEBUG [2020-01-19 21:23:52]  Loading template for "base/bottom.ftl"("zh_CN", UTF-8, parsed) from "D:\\idea\\newWork\\meite-shop-parent\\meite-shop-portal\\meite-shop-portal-web\\target\\classes\\templates\\base\\bottom.ftl"
+9469 DEBUG [2020-01-19 21:23:55]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+9470 DEBUG [2020-01-19 21:23:55]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+9470 DEBUG [2020-01-19 21:23:55]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+9470 DEBUG [2020-01-19 21:23:55]  "error.ftl"("zh_CN", UTF-8, parsed) no source found.
+13808 DEBUG [2020-01-19 21:23:59]  Couldn't find template in cache for "member/login.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+13809 DEBUG [2020-01-19 21:23:59]  TemplateLoader.findTemplateSource("member/login_zh_CN.ftl"): Not found
+13809 DEBUG [2020-01-19 21:23:59]  TemplateLoader.findTemplateSource("member/login_zh.ftl"): Not found
+13810 DEBUG [2020-01-19 21:23:59]  TemplateLoader.findTemplateSource("member/login.ftl"): Not found
+13827 DEBUG [2020-01-19 21:23:59]  "error.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+35422 DEBUG [2020-01-19 21:24:21]  TemplateLoader.findTemplateSource("member/login_zh_CN.ftl"): Not found
+35423 DEBUG [2020-01-19 21:24:21]  TemplateLoader.findTemplateSource("member/login_zh.ftl"): Not found
+35424 DEBUG [2020-01-19 21:24:21]  TemplateLoader.findTemplateSource("member/login.ftl"): Not found
+35424 DEBUG [2020-01-19 21:24:21]  "member/login.ftl"("zh_CN", UTF-8, parsed) no source found.
+35439 DEBUG [2020-01-19 21:24:21]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+35440 DEBUG [2020-01-19 21:24:21]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+35441 DEBUG [2020-01-19 21:24:21]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+35441 DEBUG [2020-01-19 21:24:21]  "error.ftl"("zh_CN", UTF-8, parsed) no source found.
+57433 DEBUG [2020-01-19 21:24:43]  TemplateLoader.findTemplateSource("index_zh_CN.ftl"): Not found
+57434 DEBUG [2020-01-19 21:24:43]  TemplateLoader.findTemplateSource("index_zh.ftl"): Not found
+57437 DEBUG [2020-01-19 21:24:43]  TemplateLoader.findTemplateSource("index.ftl"): Found
+57437 DEBUG [2020-01-19 21:24:43]  "index.ftl"("zh_CN", UTF-8, parsed): using cached since D:\idea\newWork\meite-shop-parent\meite-shop-portal\meite-shop-portal-web\target\classes\templates\index.ftl hasn't changed.
+57437 DEBUG [2020-01-19 21:24:43]  "index.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+57438 DEBUG [2020-01-19 21:24:43]  TemplateLoader.findTemplateSource("base/head_zh_CN.ftl"): Not found
+57440 DEBUG [2020-01-19 21:24:43]  TemplateLoader.findTemplateSource("base/head_zh.ftl"): Not found
+57443 DEBUG [2020-01-19 21:24:43]  TemplateLoader.findTemplateSource("base/head.ftl"): Found
+57443 DEBUG [2020-01-19 21:24:43]  "base/head.ftl"("zh_CN", UTF-8, parsed): using cached since D:\idea\newWork\meite-shop-parent\meite-shop-portal\meite-shop-portal-web\target\classes\templates\base\head.ftl hasn't changed.
+57445 DEBUG [2020-01-19 21:24:43]  TemplateLoader.findTemplateSource("base/bottom_zh_CN.ftl"): Not found
+57447 DEBUG [2020-01-19 21:24:43]  TemplateLoader.findTemplateSource("base/bottom_zh.ftl"): Not found
+57448 DEBUG [2020-01-19 21:24:43]  TemplateLoader.findTemplateSource("base/bottom.ftl"): Found
+57451 DEBUG [2020-01-19 21:24:43]  "base/bottom.ftl"("zh_CN", UTF-8, parsed): using cached since D:\idea\newWork\meite-shop-parent\meite-shop-portal\meite-shop-portal-web\target\classes\templates\base\bottom.ftl hasn't changed.
+64125 DEBUG [2020-01-19 21:24:49]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+64126 DEBUG [2020-01-19 21:24:49]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+64127 DEBUG [2020-01-19 21:24:49]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+64127 DEBUG [2020-01-19 21:24:49]  "error.ftl"("zh_CN", UTF-8, parsed) no source found.
+69622 DEBUG [2020-01-19 21:24:55]  TemplateLoader.findTemplateSource("member/login_zh_CN.ftl"): Not found
+69623 DEBUG [2020-01-19 21:24:55]  TemplateLoader.findTemplateSource("member/login_zh.ftl"): Not found
+69624 DEBUG [2020-01-19 21:24:55]  TemplateLoader.findTemplateSource("member/login.ftl"): Not found
+69624 DEBUG [2020-01-19 21:24:55]  "member/login.ftl"("zh_CN", UTF-8, parsed) no source found.
+69638 DEBUG [2020-01-19 21:24:55]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+69638 DEBUG [2020-01-19 21:24:55]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+69639 DEBUG [2020-01-19 21:24:55]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+69639 DEBUG [2020-01-19 21:24:55]  "error.ftl"("zh_CN", UTF-8, parsed) no source found.
+115712 DEBUG [2020-01-19 21:25:41]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+115712 DEBUG [2020-01-19 21:25:41]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+115713 DEBUG [2020-01-19 21:25:41]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+115713 DEBUG [2020-01-19 21:25:41]  "error.ftl"("zh_CN", UTF-8, parsed) no source found.
+169004 DEBUG [2020-01-19 21:26:34]  TemplateLoader.findTemplateSource("member/login_zh_CN.ftl"): Not found
+169005 DEBUG [2020-01-19 21:26:34]  TemplateLoader.findTemplateSource("member/login_zh.ftl"): Not found
+169006 DEBUG [2020-01-19 21:26:34]  TemplateLoader.findTemplateSource("member/login.ftl"): Not found
+169006 DEBUG [2020-01-19 21:26:34]  "member/login.ftl"("zh_CN", UTF-8, parsed) no source found.
+169008 DEBUG [2020-01-19 21:26:34]  TemplateLoader.findTemplateSource("member/login_zh_CN.ftl"): Not found
+169008 DEBUG [2020-01-19 21:26:34]  TemplateLoader.findTemplateSource("member/login_zh.ftl"): Not found
+169009 DEBUG [2020-01-19 21:26:34]  TemplateLoader.findTemplateSource("member/login.ftl"): Not found
+169009 DEBUG [2020-01-19 21:26:34]  "member/login.ftl"("zh_CN", UTF-8, parsed) no source found.
+169025 DEBUG [2020-01-19 21:26:34]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+169025 DEBUG [2020-01-19 21:26:34]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+169026 DEBUG [2020-01-19 21:26:34]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+169026 DEBUG [2020-01-19 21:26:34]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+169027 DEBUG [2020-01-19 21:26:34]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+169027 DEBUG [2020-01-19 21:26:34]  "error.ftl"("zh_CN", UTF-8, parsed) no source found.
+169028 DEBUG [2020-01-19 21:26:34]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+169028 DEBUG [2020-01-19 21:26:34]  "error.ftl"("zh_CN", UTF-8, parsed) no source found.
+1    DEBUG [2020-01-19 21:27:19]  Couldn't find template in cache for "member/login.ftl.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+7    DEBUG [2020-01-19 21:27:19]  TemplateLoader.findTemplateSource("member/login.ftl_zh_CN.ftl"): Not found
+9    DEBUG [2020-01-19 21:27:19]  TemplateLoader.findTemplateSource("member/login.ftl_zh.ftl"): Not found
+10   DEBUG [2020-01-19 21:27:19]  TemplateLoader.findTemplateSource("member/login.ftl.ftl"): Not found
+105  DEBUG [2020-01-19 21:27:19]  Couldn't find template in cache for "error.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+107  DEBUG [2020-01-19 21:27:19]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+107  DEBUG [2020-01-19 21:27:19]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+108  DEBUG [2020-01-19 21:27:19]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+177796 DEBUG [2020-01-19 21:30:17]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+177798 DEBUG [2020-01-19 21:30:17]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+177799 DEBUG [2020-01-19 21:30:17]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+177800 DEBUG [2020-01-19 21:30:17]  "error.ftl"("zh_CN", UTF-8, parsed) no source found.
+195364 DEBUG [2020-01-19 21:30:35]  Couldn't find template in cache for "member/register.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+195365 DEBUG [2020-01-19 21:30:35]  TemplateLoader.findTemplateSource("member/register_zh_CN.ftl"): Not found
+195365 DEBUG [2020-01-19 21:30:35]  TemplateLoader.findTemplateSource("member/register_zh.ftl"): Not found
+195366 DEBUG [2020-01-19 21:30:35]  TemplateLoader.findTemplateSource("member/register.ftl"): Not found
+195392 DEBUG [2020-01-19 21:30:35]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+195393 DEBUG [2020-01-19 21:30:35]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+195394 DEBUG [2020-01-19 21:30:35]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+195394 DEBUG [2020-01-19 21:30:35]  "error.ftl"("zh_CN", UTF-8, parsed) no source found.
+205053 DEBUG [2020-01-19 21:30:44]  TemplateLoader.findTemplateSource("member/register_zh_CN.ftl"): Not found
+205054 DEBUG [2020-01-19 21:30:44]  TemplateLoader.findTemplateSource("member/register_zh.ftl"): Not found
+205055 DEBUG [2020-01-19 21:30:44]  TemplateLoader.findTemplateSource("member/register.ftl"): Not found
+205055 DEBUG [2020-01-19 21:30:44]  "member/register.ftl"("zh_CN", UTF-8, parsed) no source found.
+205070 DEBUG [2020-01-19 21:30:44]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+205072 DEBUG [2020-01-19 21:30:44]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+205073 DEBUG [2020-01-19 21:30:44]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+205073 DEBUG [2020-01-19 21:30:44]  "error.ftl"("zh_CN", UTF-8, parsed) no source found.
+0    DEBUG [2020-01-19 21:32:26]  Couldn't find template in cache for "member/register.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+4    DEBUG [2020-01-19 21:32:26]  TemplateLoader.findTemplateSource("member/register_zh_CN.ftl"): Not found
+5    DEBUG [2020-01-19 21:32:26]  TemplateLoader.findTemplateSource("member/register_zh.ftl"): Not found
+6    DEBUG [2020-01-19 21:32:26]  TemplateLoader.findTemplateSource("member/register.ftl"): Not found
+57   DEBUG [2020-01-19 21:32:26]  Couldn't find template in cache for "error.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+58   DEBUG [2020-01-19 21:32:26]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+59   DEBUG [2020-01-19 21:32:26]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+61   DEBUG [2020-01-19 21:32:26]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+8016 DEBUG [2020-01-19 21:32:34]  Couldn't find template in cache for "index.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+8018 DEBUG [2020-01-19 21:32:34]  TemplateLoader.findTemplateSource("index_zh_CN.ftl"): Not found
+8019 DEBUG [2020-01-19 21:32:34]  TemplateLoader.findTemplateSource("index_zh.ftl"): Not found
+8021 DEBUG [2020-01-19 21:32:34]  TemplateLoader.findTemplateSource("index.ftl"): Found
+8022 DEBUG [2020-01-19 21:32:34]  Loading template for "index.ftl"("zh_CN", UTF-8, parsed) from "D:\\idea\\newWork\\meite-shop-parent\\meite-shop-portal\\meite-shop-portal-web\\target\\classes\\templates\\index.ftl"
+8089 DEBUG [2020-01-19 21:32:34]  "index.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+8098 DEBUG [2020-01-19 21:32:34]  Couldn't find template in cache for "base/head.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+8099 DEBUG [2020-01-19 21:32:34]  TemplateLoader.findTemplateSource("base/head_zh_CN.ftl"): Not found
+8100 DEBUG [2020-01-19 21:32:34]  TemplateLoader.findTemplateSource("base/head_zh.ftl"): Not found
+8103 DEBUG [2020-01-19 21:32:34]  TemplateLoader.findTemplateSource("base/head.ftl"): Found
+8103 DEBUG [2020-01-19 21:32:34]  Loading template for "base/head.ftl"("zh_CN", UTF-8, parsed) from "D:\\idea\\newWork\\meite-shop-parent\\meite-shop-portal\\meite-shop-portal-web\\target\\classes\\templates\\base\\head.ftl"
+8105 DEBUG [2020-01-19 21:32:34]  Couldn't find template in cache for "base/bottom.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+8106 DEBUG [2020-01-19 21:32:34]  TemplateLoader.findTemplateSource("base/bottom_zh_CN.ftl"): Not found
+8107 DEBUG [2020-01-19 21:32:34]  TemplateLoader.findTemplateSource("base/bottom_zh.ftl"): Not found
+8110 DEBUG [2020-01-19 21:32:34]  TemplateLoader.findTemplateSource("base/bottom.ftl"): Found
+8110 DEBUG [2020-01-19 21:32:34]  Loading template for "base/bottom.ftl"("zh_CN", UTF-8, parsed) from "D:\\idea\\newWork\\meite-shop-parent\\meite-shop-portal\\meite-shop-portal-web\\target\\classes\\templates\\base\\bottom.ftl"
+10069 DEBUG [2020-01-19 21:32:36]  Couldn't find template in cache for "member/login.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+10069 DEBUG [2020-01-19 21:32:36]  TemplateLoader.findTemplateSource("member/login_zh_CN.ftl"): Not found
+10070 DEBUG [2020-01-19 21:32:36]  TemplateLoader.findTemplateSource("member/login_zh.ftl"): Not found
+10070 DEBUG [2020-01-19 21:32:36]  TemplateLoader.findTemplateSource("member/login.ftl"): Not found
+10085 DEBUG [2020-01-19 21:32:36]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+10085 DEBUG [2020-01-19 21:32:36]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+10086 DEBUG [2020-01-19 21:32:36]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+10086 DEBUG [2020-01-19 21:32:36]  "error.ftl"("zh_CN", UTF-8, parsed) no source found.
+24718 DEBUG [2020-01-19 21:32:51]  Couldn't find template in cache for "500.ftl.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+24719 DEBUG [2020-01-19 21:32:51]  TemplateLoader.findTemplateSource("500.ftl_zh_CN.ftl"): Not found
+24719 DEBUG [2020-01-19 21:32:51]  TemplateLoader.findTemplateSource("500.ftl_zh.ftl"): Not found
+24720 DEBUG [2020-01-19 21:32:51]  TemplateLoader.findTemplateSource("500.ftl.ftl"): Not found
+24735 DEBUG [2020-01-19 21:32:51]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+24735 DEBUG [2020-01-19 21:32:51]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+24736 DEBUG [2020-01-19 21:32:51]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+24736 DEBUG [2020-01-19 21:32:51]  "error.ftl"("zh_CN", UTF-8, parsed) no source found.
+0    DEBUG [2020-01-19 21:39:12]  Couldn't find template in cache for "index.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+4    DEBUG [2020-01-19 21:39:12]  TemplateLoader.findTemplateSource("index_zh_CN.ftl"): Not found
+6    DEBUG [2020-01-19 21:39:12]  TemplateLoader.findTemplateSource("index_zh.ftl"): Not found
+10   DEBUG [2020-01-19 21:39:12]  TemplateLoader.findTemplateSource("index.ftl"): Found
+12   DEBUG [2020-01-19 21:39:12]  Loading template for "index.ftl"("zh_CN", UTF-8, parsed) from "D:\\idea\\newWork\\meite-shop-parent\\meite-shop-portal\\meite-shop-portal-web\\target\\classes\\templates\\index.ftl"
+75   DEBUG [2020-01-19 21:39:12]  "index.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+84   DEBUG [2020-01-19 21:39:12]  Couldn't find template in cache for "base/head.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+85   DEBUG [2020-01-19 21:39:12]  TemplateLoader.findTemplateSource("base/head_zh_CN.ftl"): Not found
+86   DEBUG [2020-01-19 21:39:12]  TemplateLoader.findTemplateSource("base/head_zh.ftl"): Not found
+88   DEBUG [2020-01-19 21:39:12]  TemplateLoader.findTemplateSource("base/head.ftl"): Found
+88   DEBUG [2020-01-19 21:39:12]  Loading template for "base/head.ftl"("zh_CN", UTF-8, parsed) from "D:\\idea\\newWork\\meite-shop-parent\\meite-shop-portal\\meite-shop-portal-web\\target\\classes\\templates\\base\\head.ftl"
+101  DEBUG [2020-01-19 21:39:12]  Couldn't find template in cache for "base/bottom.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+103  DEBUG [2020-01-19 21:39:12]  TemplateLoader.findTemplateSource("base/bottom_zh_CN.ftl"): Not found
+104  DEBUG [2020-01-19 21:39:12]  TemplateLoader.findTemplateSource("base/bottom_zh.ftl"): Not found
+105  DEBUG [2020-01-19 21:39:12]  TemplateLoader.findTemplateSource("base/bottom.ftl"): Found
+105  DEBUG [2020-01-19 21:39:12]  Loading template for "base/bottom.ftl"("zh_CN", UTF-8, parsed) from "D:\\idea\\newWork\\meite-shop-parent\\meite-shop-portal\\meite-shop-portal-web\\target\\classes\\templates\\base\\bottom.ftl"
+1855 DEBUG [2020-01-19 21:39:14]  Couldn't find template in cache for "member/login.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+1857 DEBUG [2020-01-19 21:39:14]  TemplateLoader.findTemplateSource("member/login_zh_CN.ftl"): Not found
+1858 DEBUG [2020-01-19 21:39:14]  TemplateLoader.findTemplateSource("member/login_zh.ftl"): Not found
+1858 DEBUG [2020-01-19 21:39:14]  TemplateLoader.findTemplateSource("member/login.ftl"): Not found
+1912 DEBUG [2020-01-19 21:39:14]  Couldn't find template in cache for "error.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+1913 DEBUG [2020-01-19 21:39:14]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+1914 DEBUG [2020-01-19 21:39:14]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+1914 DEBUG [2020-01-19 21:39:14]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+13887 DEBUG [2020-01-19 21:39:26]  Couldn't find template in cache for "500.ftl.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+13888 DEBUG [2020-01-19 21:39:26]  TemplateLoader.findTemplateSource("500.ftl_zh_CN.ftl"): Not found
+13888 DEBUG [2020-01-19 21:39:26]  TemplateLoader.findTemplateSource("500.ftl_zh.ftl"): Not found
+13889 DEBUG [2020-01-19 21:39:26]  TemplateLoader.findTemplateSource("500.ftl.ftl"): Not found
+13903 DEBUG [2020-01-19 21:39:26]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+13904 DEBUG [2020-01-19 21:39:26]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+13904 DEBUG [2020-01-19 21:39:26]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+13904 DEBUG [2020-01-19 21:39:26]  "error.ftl"("zh_CN", UTF-8, parsed) no source found.
+46726 DEBUG [2020-01-19 21:39:59]  TemplateLoader.findTemplateSource("500.ftl_zh_CN.ftl"): Not found
+46727 DEBUG [2020-01-19 21:39:59]  TemplateLoader.findTemplateSource("500.ftl_zh.ftl"): Not found
+46728 DEBUG [2020-01-19 21:39:59]  TemplateLoader.findTemplateSource("500.ftl.ftl"): Not found
+46729 DEBUG [2020-01-19 21:39:59]  "500.ftl.ftl"("zh_CN", UTF-8, parsed) no source found.
+46745 DEBUG [2020-01-19 21:39:59]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+46745 DEBUG [2020-01-19 21:39:59]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+46746 DEBUG [2020-01-19 21:39:59]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+46746 DEBUG [2020-01-19 21:39:59]  "error.ftl"("zh_CN", UTF-8, parsed) no source found.
+147787 DEBUG [2020-01-19 21:41:40]  TemplateLoader.findTemplateSource("500.ftl_zh_CN.ftl"): Not found
+147788 DEBUG [2020-01-19 21:41:40]  TemplateLoader.findTemplateSource("500.ftl_zh.ftl"): Not found
+147788 DEBUG [2020-01-19 21:41:40]  TemplateLoader.findTemplateSource("500.ftl.ftl"): Not found
+147789 DEBUG [2020-01-19 21:41:40]  "500.ftl.ftl"("zh_CN", UTF-8, parsed) no source found.
+147803 DEBUG [2020-01-19 21:41:40]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+147804 DEBUG [2020-01-19 21:41:40]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+147805 DEBUG [2020-01-19 21:41:40]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+147805 DEBUG [2020-01-19 21:41:40]  "error.ftl"("zh_CN", UTF-8, parsed) no source found.
+0    DEBUG [2020-01-19 21:42:56]  Couldn't find template in cache for "member/qqlogin.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+11   DEBUG [2020-01-19 21:42:56]  TemplateLoader.findTemplateSource("member/qqlogin_zh_CN.ftl"): Not found
+21   DEBUG [2020-01-19 21:42:56]  TemplateLoader.findTemplateSource("member/qqlogin_zh.ftl"): Not found
+22   DEBUG [2020-01-19 21:42:56]  TemplateLoader.findTemplateSource("member/qqlogin.ftl"): Not found
+100  DEBUG [2020-01-19 21:42:57]  Couldn't find template in cache for "error.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+101  DEBUG [2020-01-19 21:42:57]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+102  DEBUG [2020-01-19 21:42:57]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+102  DEBUG [2020-01-19 21:42:57]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+209799 DEBUG [2020-01-19 21:46:26]  Couldn't find template in cache for "index.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+209800 DEBUG [2020-01-19 21:46:26]  TemplateLoader.findTemplateSource("index_zh_CN.ftl"): Not found
+209802 DEBUG [2020-01-19 21:46:26]  TemplateLoader.findTemplateSource("index_zh.ftl"): Not found
+209809 DEBUG [2020-01-19 21:46:26]  TemplateLoader.findTemplateSource("index.ftl"): Found
+209811 DEBUG [2020-01-19 21:46:26]  Loading template for "index.ftl"("zh_CN", UTF-8, parsed) from "D:\\idea\\newWork\\meite-shop-parent\\meite-shop-portal\\meite-shop-portal-web\\target\\classes\\templates\\index.ftl"
+209911 DEBUG [2020-01-19 21:46:26]  "index.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+209923 DEBUG [2020-01-19 21:46:26]  Couldn't find template in cache for "base/head.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+209924 DEBUG [2020-01-19 21:46:26]  TemplateLoader.findTemplateSource("base/head_zh_CN.ftl"): Not found
+209924 DEBUG [2020-01-19 21:46:26]  TemplateLoader.findTemplateSource("base/head_zh.ftl"): Not found
+209928 DEBUG [2020-01-19 21:46:26]  TemplateLoader.findTemplateSource("base/head.ftl"): Found
+209928 DEBUG [2020-01-19 21:46:26]  Loading template for "base/head.ftl"("zh_CN", UTF-8, parsed) from "D:\\idea\\newWork\\meite-shop-parent\\meite-shop-portal\\meite-shop-portal-web\\target\\classes\\templates\\base\\head.ftl"
+209931 DEBUG [2020-01-19 21:46:26]  Couldn't find template in cache for "base/bottom.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+209931 DEBUG [2020-01-19 21:46:26]  TemplateLoader.findTemplateSource("base/bottom_zh_CN.ftl"): Not found
+209933 DEBUG [2020-01-19 21:46:26]  TemplateLoader.findTemplateSource("base/bottom_zh.ftl"): Not found
+209933 DEBUG [2020-01-19 21:46:26]  TemplateLoader.findTemplateSource("base/bottom.ftl"): Found
+209933 DEBUG [2020-01-19 21:46:26]  Loading template for "base/bottom.ftl"("zh_CN", UTF-8, parsed) from "D:\\idea\\newWork\\meite-shop-parent\\meite-shop-portal\\meite-shop-portal-web\\target\\classes\\templates\\base\\bottom.ftl"
+267102 DEBUG [2020-01-19 21:47:24]  TemplateLoader.findTemplateSource("index_zh_CN.ftl"): Not found
+267104 DEBUG [2020-01-19 21:47:24]  TemplateLoader.findTemplateSource("index_zh.ftl"): Not found
+267106 DEBUG [2020-01-19 21:47:24]  TemplateLoader.findTemplateSource("index.ftl"): Found
+267107 DEBUG [2020-01-19 21:47:24]  "index.ftl"("zh_CN", UTF-8, parsed): using cached since D:\idea\newWork\meite-shop-parent\meite-shop-portal\meite-shop-portal-web\target\classes\templates\index.ftl hasn't changed.
+267108 DEBUG [2020-01-19 21:47:24]  "index.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+267111 DEBUG [2020-01-19 21:47:24]  TemplateLoader.findTemplateSource("base/head_zh_CN.ftl"): Not found
+267112 DEBUG [2020-01-19 21:47:24]  TemplateLoader.findTemplateSource("base/head_zh.ftl"): Not found
+267115 DEBUG [2020-01-19 21:47:24]  TemplateLoader.findTemplateSource("base/head.ftl"): Found
+267115 DEBUG [2020-01-19 21:47:24]  "base/head.ftl"("zh_CN", UTF-8, parsed): using cached since D:\idea\newWork\meite-shop-parent\meite-shop-portal\meite-shop-portal-web\target\classes\templates\base\head.ftl hasn't changed.
+267117 DEBUG [2020-01-19 21:47:24]  TemplateLoader.findTemplateSource("base/bottom_zh_CN.ftl"): Not found
+267118 DEBUG [2020-01-19 21:47:24]  TemplateLoader.findTemplateSource("base/bottom_zh.ftl"): Not found
+267118 DEBUG [2020-01-19 21:47:24]  TemplateLoader.findTemplateSource("base/bottom.ftl"): Found
+267118 DEBUG [2020-01-19 21:47:24]  "base/bottom.ftl"("zh_CN", UTF-8, parsed): using cached since D:\idea\newWork\meite-shop-parent\meite-shop-portal\meite-shop-portal-web\target\classes\templates\base\bottom.ftl hasn't changed.
+270066 DEBUG [2020-01-19 21:47:26]  Couldn't find template in cache for "member/login.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+270067 DEBUG [2020-01-19 21:47:26]  TemplateLoader.findTemplateSource("member/login_zh_CN.ftl"): Not found
+270067 DEBUG [2020-01-19 21:47:26]  TemplateLoader.findTemplateSource("member/login_zh.ftl"): Not found
+270068 DEBUG [2020-01-19 21:47:26]  TemplateLoader.findTemplateSource("member/login.ftl"): Not found
+270086 DEBUG [2020-01-19 21:47:27]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+270086 DEBUG [2020-01-19 21:47:27]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+270087 DEBUG [2020-01-19 21:47:27]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+270087 DEBUG [2020-01-19 21:47:27]  "error.ftl"("zh_CN", UTF-8, parsed) no source found.
+327258 DEBUG [2020-01-19 21:48:24]  TemplateLoader.findTemplateSource("member/login_zh_CN.ftl"): Not found
+327259 DEBUG [2020-01-19 21:48:24]  TemplateLoader.findTemplateSource("member/login_zh.ftl"): Not found
+327260 DEBUG [2020-01-19 21:48:24]  TemplateLoader.findTemplateSource("member/login.ftl"): Not found
+327260 DEBUG [2020-01-19 21:48:24]  "member/login.ftl"("zh_CN", UTF-8, parsed) no source found.
+327280 DEBUG [2020-01-19 21:48:24]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+327282 DEBUG [2020-01-19 21:48:24]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+327283 DEBUG [2020-01-19 21:48:24]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+327283 DEBUG [2020-01-19 21:48:24]  "error.ftl"("zh_CN", UTF-8, parsed) no source found.
+0    DEBUG [2020-01-19 21:50:40]  Couldn't find template in cache for "member/login.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+7    DEBUG [2020-01-19 21:50:40]  TemplateLoader.findTemplateSource("member/login_zh_CN.ftl"): Not found
+9    DEBUG [2020-01-19 21:50:40]  TemplateLoader.findTemplateSource("member/login_zh.ftl"): Not found
+12   DEBUG [2020-01-19 21:50:40]  TemplateLoader.findTemplateSource("member/login.ftl"): Found
+13   DEBUG [2020-01-19 21:50:40]  Loading template for "member/login.ftl"("zh_CN", UTF-8, parsed) from "D:\\idea\\newWork\\meite-shop-parent\\meite-shop-portal\\meite-shop-portal-web\\target\\classes\\templates\\member\\login.ftl"
+114  DEBUG [2020-01-19 21:50:40]  "member/login.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+21328 DEBUG [2020-01-19 21:51:01]  Couldn't find template in cache for "500.ftl.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+21331 DEBUG [2020-01-19 21:51:01]  TemplateLoader.findTemplateSource("500.ftl_zh_CN.ftl"): Not found
+21333 DEBUG [2020-01-19 21:51:01]  TemplateLoader.findTemplateSource("500.ftl_zh.ftl"): Not found
+21335 DEBUG [2020-01-19 21:51:01]  TemplateLoader.findTemplateSource("500.ftl.ftl"): Not found
+21371 DEBUG [2020-01-19 21:51:01]  Couldn't find template in cache for "error.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+21372 DEBUG [2020-01-19 21:51:01]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+21372 DEBUG [2020-01-19 21:51:01]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+21373 DEBUG [2020-01-19 21:51:01]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+0    DEBUG [2020-01-19 21:52:23]  Couldn't find template in cache for "500.ftl.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+11   DEBUG [2020-01-19 21:52:23]  TemplateLoader.findTemplateSource("500.ftl_zh_CN.ftl"): Not found
+16   DEBUG [2020-01-19 21:52:23]  TemplateLoader.findTemplateSource("500.ftl_zh.ftl"): Not found
+16   DEBUG [2020-01-19 21:52:23]  TemplateLoader.findTemplateSource("500.ftl.ftl"): Not found
+100  DEBUG [2020-01-19 21:52:23]  Couldn't find template in cache for "error.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+102  DEBUG [2020-01-19 21:52:23]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+102  DEBUG [2020-01-19 21:52:23]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+103  DEBUG [2020-01-19 21:52:23]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+97982 DEBUG [2020-01-19 21:54:01]  Couldn't find template in cache for "member/qqlogin.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+97984 DEBUG [2020-01-19 21:54:01]  TemplateLoader.findTemplateSource("member/qqlogin_zh_CN.ftl"): Not found
+97984 DEBUG [2020-01-19 21:54:01]  TemplateLoader.findTemplateSource("member/qqlogin_zh.ftl"): Not found
+97994 DEBUG [2020-01-19 21:54:01]  TemplateLoader.findTemplateSource("member/qqlogin.ftl"): Found
+97995 DEBUG [2020-01-19 21:54:01]  Loading template for "member/qqlogin.ftl"("zh_CN", UTF-8, parsed) from "D:\\idea\\newWork\\meite-shop-parent\\meite-shop-portal\\meite-shop-portal-web\\target\\classes\\templates\\member\\qqlogin.ftl"
+98103 DEBUG [2020-01-19 21:54:01]  "member/qqlogin.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+123100 DEBUG [2020-01-19 21:54:26]  TemplateLoader.findTemplateSource("member/qqlogin_zh_CN.ftl"): Not found
+123101 DEBUG [2020-01-19 21:54:26]  TemplateLoader.findTemplateSource("member/qqlogin_zh.ftl"): Not found
+123102 DEBUG [2020-01-19 21:54:26]  TemplateLoader.findTemplateSource("member/qqlogin.ftl"): Found
+123103 DEBUG [2020-01-19 21:54:26]  "member/qqlogin.ftl"("zh_CN", UTF-8, parsed): using cached since D:\idea\newWork\meite-shop-parent\meite-shop-portal\meite-shop-portal-web\target\classes\templates\member\qqlogin.ftl hasn't changed.
+123103 DEBUG [2020-01-19 21:54:26]  "member/qqlogin.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+123108 ERROR [2020-01-19 21:54:26]  Error executing FreeMarker template
+FreeMarker template error:
+The following has evaluated to null or missing:
+==> avatarURL100  [in template "member/qqlogin.ftl" at line 59, column 60]
+
+----
+Tip: If the failing expression is known to legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use <#if myOptionalVar??>when-present<#else>when-missing</#if>. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??
+----
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: ${avatarURL100}  [in template "member/qqlogin.ftl" at line 59, column 58]
+----
+
+Java stack trace (for programmers):
+----
+freemarker.core.InvalidReferenceException: [... Exception message was already printed; see it above ...]
+	at freemarker.core.InvalidReferenceException.getInstance(InvalidReferenceException.java:134)
+	at freemarker.core.EvalUtil.coerceModelToTextualCommon(EvalUtil.java:479)
+	at freemarker.core.EvalUtil.coerceModelToStringOrMarkup(EvalUtil.java:401)
+	at freemarker.core.EvalUtil.coerceModelToStringOrMarkup(EvalUtil.java:370)
+	at freemarker.core.DollarVariable.calculateInterpolatedStringOrMarkup(DollarVariable.java:100)
+	at freemarker.core.DollarVariable.accept(DollarVariable.java:63)
+	at freemarker.core.Environment.visit(Environment.java:331)
+	at freemarker.core.Environment.visit(Environment.java:337)
+	at freemarker.core.Environment.process(Environment.java:310)
+	at freemarker.template.Template.process(Template.java:383)
+	at org.springframework.web.servlet.view.freemarker.FreeMarkerView.processTemplate(FreeMarkerView.java:390)
+	at org.springframework.web.servlet.view.freemarker.FreeMarkerView.doRender(FreeMarkerView.java:303)
+	at org.springframework.web.servlet.view.freemarker.FreeMarkerView.renderMergedTemplateModel(FreeMarkerView.java:254)
+	at org.springframework.web.servlet.view.AbstractTemplateView.renderMergedOutputModel(AbstractTemplateView.java:179)
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:317)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1372)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1118)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1057)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:94)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:526)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:861)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1579)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+123255 DEBUG [2020-01-19 21:54:26]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+123256 DEBUG [2020-01-19 21:54:26]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+123256 DEBUG [2020-01-19 21:54:26]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+123256 DEBUG [2020-01-19 21:54:26]  "error.ftl"("zh_CN", UTF-8, parsed) no source found.
+134888 DEBUG [2020-01-19 21:54:38]  Couldn't find template in cache for "member/register.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+134890 DEBUG [2020-01-19 21:54:38]  TemplateLoader.findTemplateSource("member/register_zh_CN.ftl"): Not found
+134891 DEBUG [2020-01-19 21:54:38]  TemplateLoader.findTemplateSource("member/register_zh.ftl"): Not found
+134893 DEBUG [2020-01-19 21:54:38]  TemplateLoader.findTemplateSource("member/register.ftl"): Found
+134895 DEBUG [2020-01-19 21:54:38]  Loading template for "member/register.ftl"("zh_CN", UTF-8, parsed) from "D:\\idea\\newWork\\meite-shop-parent\\meite-shop-portal\\meite-shop-portal-web\\target\\classes\\templates\\member\\register.ftl"
+134904 DEBUG [2020-01-19 21:54:38]  "member/register.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+134906 DEBUG [2020-01-19 21:54:38]  Couldn't find template in cache for "base/bottom.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+134907 DEBUG [2020-01-19 21:54:38]  TemplateLoader.findTemplateSource("base/bottom_zh_CN.ftl"): Not found
+134908 DEBUG [2020-01-19 21:54:38]  TemplateLoader.findTemplateSource("base/bottom_zh.ftl"): Not found
+134910 DEBUG [2020-01-19 21:54:38]  TemplateLoader.findTemplateSource("base/bottom.ftl"): Found
+134910 DEBUG [2020-01-19 21:54:38]  Loading template for "base/bottom.ftl"("zh_CN", UTF-8, parsed) from "D:\\idea\\newWork\\meite-shop-parent\\meite-shop-portal\\meite-shop-portal-web\\target\\classes\\templates\\base\\bottom.ftl"
+144986 DEBUG [2020-01-19 21:54:48]  Couldn't find template in cache for "member/login.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+144987 DEBUG [2020-01-19 21:54:48]  TemplateLoader.findTemplateSource("member/login_zh_CN.ftl"): Not found
+144988 DEBUG [2020-01-19 21:54:48]  TemplateLoader.findTemplateSource("member/login_zh.ftl"): Not found
+144988 DEBUG [2020-01-19 21:54:48]  TemplateLoader.findTemplateSource("member/login.ftl"): Found
+144988 DEBUG [2020-01-19 21:54:48]  Loading template for "member/login.ftl"("zh_CN", UTF-8, parsed) from "D:\\idea\\newWork\\meite-shop-parent\\meite-shop-portal\\meite-shop-portal-web\\target\\classes\\templates\\member\\login.ftl"
+144992 DEBUG [2020-01-19 21:54:48]  "member/login.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+188518 DEBUG [2020-01-19 21:55:31]  TemplateLoader.findTemplateSource("member/qqlogin_zh_CN.ftl"): Not found
+188519 DEBUG [2020-01-19 21:55:31]  TemplateLoader.findTemplateSource("member/qqlogin_zh.ftl"): Not found
+188522 DEBUG [2020-01-19 21:55:31]  TemplateLoader.findTemplateSource("member/qqlogin.ftl"): Found
+188522 DEBUG [2020-01-19 21:55:31]  "member/qqlogin.ftl"("zh_CN", UTF-8, parsed): using cached since D:\idea\newWork\meite-shop-parent\meite-shop-portal\meite-shop-portal-web\target\classes\templates\member\qqlogin.ftl hasn't changed.
+188522 DEBUG [2020-01-19 21:55:31]  "member/qqlogin.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+206457 DEBUG [2020-01-19 21:55:49]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+206457 DEBUG [2020-01-19 21:55:49]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+206458 DEBUG [2020-01-19 21:55:49]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+206458 DEBUG [2020-01-19 21:55:49]  "error.ftl"("zh_CN", UTF-8, parsed) no source found.
+206690 DEBUG [2020-01-19 21:55:50]  TemplateLoader.findTemplateSource("member/qqlogin_zh_CN.ftl"): Not found
+206691 DEBUG [2020-01-19 21:55:50]  TemplateLoader.findTemplateSource("member/qqlogin_zh.ftl"): Not found
+206691 DEBUG [2020-01-19 21:55:50]  TemplateLoader.findTemplateSource("member/qqlogin.ftl"): Found
+206692 DEBUG [2020-01-19 21:55:50]  "member/qqlogin.ftl"("zh_CN", UTF-8, parsed): using cached since D:\idea\newWork\meite-shop-parent\meite-shop-portal\meite-shop-portal-web\target\classes\templates\member\qqlogin.ftl hasn't changed.
+206693 DEBUG [2020-01-19 21:55:50]  "member/qqlogin.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+206693 ERROR [2020-01-19 21:55:50]  Error executing FreeMarker template
+FreeMarker template error:
+The following has evaluated to null or missing:
+==> avatarURL100  [in template "member/qqlogin.ftl" at line 59, column 60]
+
+----
+Tip: If the failing expression is known to legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use <#if myOptionalVar??>when-present<#else>when-missing</#if>. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??
+----
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: ${avatarURL100}  [in template "member/qqlogin.ftl" at line 59, column 58]
+----
+
+Java stack trace (for programmers):
+----
+freemarker.core.InvalidReferenceException: [... Exception message was already printed; see it above ...]
+	at freemarker.core.InvalidReferenceException.getInstance(InvalidReferenceException.java:134)
+	at freemarker.core.EvalUtil.coerceModelToTextualCommon(EvalUtil.java:479)
+	at freemarker.core.EvalUtil.coerceModelToStringOrMarkup(EvalUtil.java:401)
+	at freemarker.core.EvalUtil.coerceModelToStringOrMarkup(EvalUtil.java:370)
+	at freemarker.core.DollarVariable.calculateInterpolatedStringOrMarkup(DollarVariable.java:100)
+	at freemarker.core.DollarVariable.accept(DollarVariable.java:63)
+	at freemarker.core.Environment.visit(Environment.java:331)
+	at freemarker.core.Environment.visit(Environment.java:337)
+	at freemarker.core.Environment.process(Environment.java:310)
+	at freemarker.template.Template.process(Template.java:383)
+	at org.springframework.web.servlet.view.freemarker.FreeMarkerView.processTemplate(FreeMarkerView.java:390)
+	at org.springframework.web.servlet.view.freemarker.FreeMarkerView.doRender(FreeMarkerView.java:303)
+	at org.springframework.web.servlet.view.freemarker.FreeMarkerView.renderMergedTemplateModel(FreeMarkerView.java:254)
+	at org.springframework.web.servlet.view.AbstractTemplateView.renderMergedOutputModel(AbstractTemplateView.java:179)
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:317)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1372)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1118)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1057)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:94)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:526)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:861)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1579)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+206705 DEBUG [2020-01-19 21:55:50]  "error.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+598093 DEBUG [2020-01-19 22:02:21]  TemplateLoader.findTemplateSource("500.ftl_zh_CN.ftl"): Not found
+598093 DEBUG [2020-01-19 22:02:21]  TemplateLoader.findTemplateSource("500.ftl_zh.ftl"): Not found
+598095 DEBUG [2020-01-19 22:02:21]  TemplateLoader.findTemplateSource("500.ftl.ftl"): Not found
+598095 DEBUG [2020-01-19 22:02:21]  "500.ftl.ftl"("zh_CN", UTF-8, parsed) no source found.
+598106 DEBUG [2020-01-19 22:02:21]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+598107 DEBUG [2020-01-19 22:02:21]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+598108 DEBUG [2020-01-19 22:02:21]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+598108 DEBUG [2020-01-19 22:02:21]  "error.ftl"("zh_CN", UTF-8, parsed) no source found.
+639243 DEBUG [2020-01-19 22:03:02]  Couldn't find template in cache for "index.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+639244 DEBUG [2020-01-19 22:03:02]  TemplateLoader.findTemplateSource("index_zh_CN.ftl"): Not found
+639245 DEBUG [2020-01-19 22:03:02]  TemplateLoader.findTemplateSource("index_zh.ftl"): Not found
+639248 DEBUG [2020-01-19 22:03:02]  TemplateLoader.findTemplateSource("index.ftl"): Found
+639248 DEBUG [2020-01-19 22:03:02]  Loading template for "index.ftl"("zh_CN", UTF-8, parsed) from "D:\\idea\\newWork\\meite-shop-parent\\meite-shop-portal\\meite-shop-portal-web\\target\\classes\\templates\\index.ftl"
+639256 DEBUG [2020-01-19 22:03:02]  "index.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+639257 DEBUG [2020-01-19 22:03:02]  Couldn't find template in cache for "base/head.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+639258 DEBUG [2020-01-19 22:03:02]  TemplateLoader.findTemplateSource("base/head_zh_CN.ftl"): Not found
+639259 DEBUG [2020-01-19 22:03:02]  TemplateLoader.findTemplateSource("base/head_zh.ftl"): Not found
+639261 DEBUG [2020-01-19 22:03:02]  TemplateLoader.findTemplateSource("base/head.ftl"): Found
+639261 DEBUG [2020-01-19 22:03:02]  Loading template for "base/head.ftl"("zh_CN", UTF-8, parsed) from "D:\\idea\\newWork\\meite-shop-parent\\meite-shop-portal\\meite-shop-portal-web\\target\\classes\\templates\\base\\head.ftl"
+639266 DEBUG [2020-01-19 22:03:02]  TemplateLoader.findTemplateSource("base/bottom_zh_CN.ftl"): Not found
+639269 DEBUG [2020-01-19 22:03:02]  TemplateLoader.findTemplateSource("base/bottom_zh.ftl"): Not found
+639270 DEBUG [2020-01-19 22:03:02]  TemplateLoader.findTemplateSource("base/bottom.ftl"): Found
+639270 DEBUG [2020-01-19 22:03:02]  "base/bottom.ftl"("zh_CN", UTF-8, parsed): using cached since D:\idea\newWork\meite-shop-parent\meite-shop-portal\meite-shop-portal-web\target\classes\templates\base\bottom.ftl hasn't changed.
+0    DEBUG [2020-01-19 22:04:26]  Couldn't find template in cache for "index.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+8    DEBUG [2020-01-19 22:04:26]  TemplateLoader.findTemplateSource("index_zh_CN.ftl"): Not found
+12   DEBUG [2020-01-19 22:04:26]  TemplateLoader.findTemplateSource("index_zh.ftl"): Not found
+14   DEBUG [2020-01-19 22:04:26]  TemplateLoader.findTemplateSource("index.ftl"): Not found
+101  DEBUG [2020-01-19 22:04:26]  Couldn't find template in cache for "error.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+101  DEBUG [2020-01-19 22:04:26]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+102  DEBUG [2020-01-19 22:04:26]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+103  DEBUG [2020-01-19 22:04:26]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+0    DEBUG [2020-01-19 22:05:53]  Couldn't find template in cache for "index.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+4    DEBUG [2020-01-19 22:05:53]  TemplateLoader.findTemplateSource("index_zh_CN.ftl"): Not found
+6    DEBUG [2020-01-19 22:05:53]  TemplateLoader.findTemplateSource("index_zh.ftl"): Not found
+9    DEBUG [2020-01-19 22:05:53]  TemplateLoader.findTemplateSource("index.ftl"): Found
+9    DEBUG [2020-01-19 22:05:53]  Loading template for "index.ftl"("zh_CN", UTF-8, parsed) from "D:\\idea\\newWork\\meite-shop-parent\\meite-shop-portal\\meite-shop-portal-web\\target\\classes\\templates\\index.ftl"
+67   DEBUG [2020-01-19 22:05:53]  "index.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+74   DEBUG [2020-01-19 22:05:53]  Couldn't find template in cache for "base/head.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+75   DEBUG [2020-01-19 22:05:53]  TemplateLoader.findTemplateSource("base/head_zh_CN.ftl"): Not found
+76   DEBUG [2020-01-19 22:05:53]  TemplateLoader.findTemplateSource("base/head_zh.ftl"): Not found
+78   DEBUG [2020-01-19 22:05:53]  TemplateLoader.findTemplateSource("base/head.ftl"): Found
+78   DEBUG [2020-01-19 22:05:53]  Loading template for "base/head.ftl"("zh_CN", UTF-8, parsed) from "D:\\idea\\newWork\\meite-shop-parent\\meite-shop-portal\\meite-shop-portal-web\\target\\classes\\templates\\base\\head.ftl"
+133  DEBUG [2020-01-19 22:05:53]  Couldn't find template in cache for "base/bottom.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+133  DEBUG [2020-01-19 22:05:53]  TemplateLoader.findTemplateSource("base/bottom_zh_CN.ftl"): Not found
+134  DEBUG [2020-01-19 22:05:53]  TemplateLoader.findTemplateSource("base/bottom_zh.ftl"): Not found
+134  DEBUG [2020-01-19 22:05:53]  TemplateLoader.findTemplateSource("base/bottom.ftl"): Found
+135  DEBUG [2020-01-19 22:05:53]  Loading template for "base/bottom.ftl"("zh_CN", UTF-8, parsed) from "D:\\idea\\newWork\\meite-shop-parent\\meite-shop-portal\\meite-shop-portal-web\\target\\classes\\templates\\base\\bottom.ftl"
+7665 DEBUG [2020-01-19 22:06:01]  Couldn't find template in cache for "error.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+7668 DEBUG [2020-01-19 22:06:01]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+7669 DEBUG [2020-01-19 22:06:01]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+7669 DEBUG [2020-01-19 22:06:01]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+39241 DEBUG [2020-01-19 22:06:32]  TemplateLoader.findTemplateSource("index_zh_CN.ftl"): Not found
+39243 DEBUG [2020-01-19 22:06:32]  TemplateLoader.findTemplateSource("index_zh.ftl"): Not found
+39248 DEBUG [2020-01-19 22:06:32]  TemplateLoader.findTemplateSource("index.ftl"): Found
+39249 DEBUG [2020-01-19 22:06:32]  "index.ftl"("zh_CN", UTF-8, parsed): using cached since D:\idea\newWork\meite-shop-parent\meite-shop-portal\meite-shop-portal-web\target\classes\templates\index.ftl hasn't changed.
+39250 DEBUG [2020-01-19 22:06:32]  "index.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+39251 DEBUG [2020-01-19 22:06:32]  TemplateLoader.findTemplateSource("base/head_zh_CN.ftl"): Not found
+39252 DEBUG [2020-01-19 22:06:32]  TemplateLoader.findTemplateSource("base/head_zh.ftl"): Not found
+39256 DEBUG [2020-01-19 22:06:32]  TemplateLoader.findTemplateSource("base/head.ftl"): Found
+39256 DEBUG [2020-01-19 22:06:32]  "base/head.ftl"("zh_CN", UTF-8, parsed): using cached since D:\idea\newWork\meite-shop-parent\meite-shop-portal\meite-shop-portal-web\target\classes\templates\base\head.ftl hasn't changed.
+39258 DEBUG [2020-01-19 22:06:32]  TemplateLoader.findTemplateSource("base/bottom_zh_CN.ftl"): Not found
+39259 DEBUG [2020-01-19 22:06:32]  TemplateLoader.findTemplateSource("base/bottom_zh.ftl"): Not found
+39261 DEBUG [2020-01-19 22:06:32]  TemplateLoader.findTemplateSource("base/bottom.ftl"): Found
+39261 DEBUG [2020-01-19 22:06:32]  "base/bottom.ftl"("zh_CN", UTF-8, parsed): using cached since D:\idea\newWork\meite-shop-parent\meite-shop-portal\meite-shop-portal-web\target\classes\templates\base\bottom.ftl hasn't changed.
